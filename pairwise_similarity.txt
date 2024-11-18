@@ -1,1200 +1,1200 @@
-Word Pair: (بدون, بقاله)
-Model: artificial_cbow.model, Similarity: 0.21643099188804626
-Model: natural_cbow.model, Similarity: -0.08132751286029816
-Model: artificial_sg.model, Similarity: 0.21974746882915497
-Model: natural_sg.model, Similarity: 0.0889999195933342
-
-Word Pair: (سعر, النادي)
-Model: artificial_cbow.model, Similarity: -0.12403479218482971
-Model: natural_cbow.model, Similarity: 0.03817029669880867
-Model: artificial_sg.model, Similarity: -0.024111658334732056
-Model: natural_sg.model, Similarity: 0.1877799779176712
-
-Word Pair: (try, depends)
-Model: artificial_cbow.model, Similarity: -0.06575150787830353
-Model: natural_cbow.model, Similarity: 0.008604920469224453
-Model: artificial_sg.model, Similarity: 0.22903791069984436
-Model: natural_sg.model, Similarity: 0.03957432880997658
-
-Word Pair: (coffee, number)
-Model: artificial_cbow.model, Similarity: -0.05182580649852753
-Model: natural_cbow.model, Similarity: -0.032921090722084045
-Model: artificial_sg.model, Similarity: 0.15017451345920563
-Model: natural_sg.model, Similarity: 0.053020358085632324
-
-Word Pair: (إنت, trip)
-Model: artificial_cbow.model, Similarity: -0.07695391774177551
-Model: natural_cbow.model, Similarity: 0.022004636004567146
-Model: artificial_sg.model, Similarity: 0.14233386516571045
-Model: natural_sg.model, Similarity: 0.3042452931404114
-
-Word Pair: (أني, model)
-Model: artificial_cbow.model, Similarity: -0.03869997337460518
-Model: natural_cbow.model, Similarity: -0.10627033561468124
-Model: artificial_sg.model, Similarity: 0.11785189807415009
-Model: natural_sg.model, Similarity: 0.10157371312379837
-
-Word Pair: (decided, of)
-Model: artificial_cbow.model, Similarity: -0.022592123597860336
-Model: natural_cbow.model, Similarity: 0.14108547568321228
-Model: artificial_sg.model, Similarity: 0.09194076806306839
-Model: natural_sg.model, Similarity: 0.10287615656852722
-
-Word Pair: (levels, culture)
-Model: artificial_cbow.model, Similarity: 0.1473308503627777
-Model: natural_cbow.model, Similarity: 0.11969567090272903
-Model: artificial_sg.model, Similarity: 0.23426175117492676
-Model: natural_sg.model, Similarity: 0.36949092149734497
-
-Word Pair: (الغردقة, course)
-Model: artificial_cbow.model, Similarity: 0.17539678514003754
-Model: natural_cbow.model, Similarity: -0.023828500881791115
-Model: artificial_sg.model, Similarity: 0.1954113394021988
-Model: natural_sg.model, Similarity: 0.07014890760183334
-
-Word Pair: (يشتغل, انت)
-Model: artificial_cbow.model, Similarity: 0.22483563423156738
-Model: natural_cbow.model, Similarity: -0.030514659360051155
-Model: artificial_sg.model, Similarity: 0.09567350149154663
-Model: natural_sg.model, Similarity: 0.03837590664625168
-
-Word Pair: (is, 4)
-Model: artificial_cbow.model, Similarity: 0.011834667064249516
-Model: natural_cbow.model, Similarity: -0.19455641508102417
-Model: artificial_sg.model, Similarity: 0.12488575279712677
-Model: natural_sg.model, Similarity: 0.037349529564380646
-
-Word Pair: (أربعة, حاجات)
-Model: artificial_cbow.model, Similarity: -0.016338730230927467
-Model: natural_cbow.model, Similarity: -0.1044473946094513
-Model: artificial_sg.model, Similarity: -0.02344994619488716
-Model: natural_sg.model, Similarity: 0.04599570855498314
-
-Word Pair: (20, الحاجات)
-Model: artificial_cbow.model, Similarity: -0.19485194981098175
-Model: natural_cbow.model, Similarity: -0.0893939658999443
-Model: artificial_sg.model, Similarity: 0.07847683131694794
-Model: natural_sg.model, Similarity: 0.1886255294084549
-
-Word Pair: (human, bus)
-Model: artificial_cbow.model, Similarity: 0.07960458099842072
-Model: natural_cbow.model, Similarity: -0.14510178565979004
-Model: artificial_sg.model, Similarity: 0.1625215858221054
-Model: natural_sg.model, Similarity: 0.1802625209093094
-
-Word Pair: (السينما, أعلى)
-Model: artificial_cbow.model, Similarity: 0.062222857028245926
-Model: natural_cbow.model, Similarity: 0.14922380447387695
-Model: artificial_sg.model, Similarity: 0.01215764693915844
-Model: natural_sg.model, Similarity: 0.23233167827129364
-
-Word Pair: (فات, محتاج)
-Model: artificial_cbow.model, Similarity: -0.11074709892272949
-Model: natural_cbow.model, Similarity: -0.03842061385512352
-Model: artificial_sg.model, Similarity: 0.2127581238746643
-Model: natural_sg.model, Similarity: 0.09530728310346603
-
-Word Pair: (بحاجة, طلع)
-Model: artificial_cbow.model, Similarity: -0.04781847447156906
-Model: natural_cbow.model, Similarity: -0.1481224000453949
-Model: artificial_sg.model, Similarity: 0.00969818513840437
-Model: natural_sg.model, Similarity: 0.17348453402519226
-
-Word Pair: (فات, mix)
-Model: artificial_cbow.model, Similarity: 0.06159624829888344
-Model: natural_cbow.model, Similarity: 0.05121595039963722
-Model: artificial_sg.model, Similarity: 0.03988604620099068
-Model: natural_sg.model, Similarity: 0.21806517243385315
-
-Word Pair: (وقتك, قالولي)
-Model: artificial_cbow.model, Similarity: 0.21650783717632294
-Model: natural_cbow.model, Similarity: 0.01338101178407669
-Model: artificial_sg.model, Similarity: 0.13166411221027374
-Model: natural_sg.model, Similarity: 0.1789359301328659
-
-Word Pair: (prefer, god)
-Model: artificial_cbow.model, Similarity: -0.04220447689294815
-Model: natural_cbow.model, Similarity: 0.19853845238685608
-Model: artificial_sg.model, Similarity: 0.17042164504528046
-Model: natural_sg.model, Similarity: 0.24015763401985168
-
-Word Pair: (صاحبي, بمعنى)
-Model: artificial_cbow.model, Similarity: -0.06492929905653
-Model: natural_cbow.model, Similarity: -0.026815136894583702
-Model: artificial_sg.model, Similarity: 0.03240964561700821
-Model: natural_sg.model, Similarity: 0.16663677990436554
-
-Word Pair: (دايمًا, النهار)
-Model: artificial_cbow.model, Similarity: 0.025395117700099945
-Model: natural_cbow.model, Similarity: 0.08004015684127808
-Model: artificial_sg.model, Similarity: 0.13411708176136017
-Model: natural_sg.model, Similarity: 0.12603206932544708
-
-Word Pair: (الكبيرة, أصحى)
-Model: artificial_cbow.model, Similarity: -0.015109644271433353
-Model: natural_cbow.model, Similarity: -0.026737745851278305
-Model: artificial_sg.model, Similarity: 0.10539475083351135
-Model: natural_sg.model, Similarity: 0.2624129056930542
-
-Word Pair: (حتة, المصادر)
-Model: artificial_cbow.model, Similarity: 0.1494958996772766
-Model: natural_cbow.model, Similarity: -0.026015469804406166
-Model: artificial_sg.model, Similarity: 0.16205549240112305
-Model: natural_sg.model, Similarity: 0.09312522411346436
-
-Word Pair: (فاكرة, ماشي)
-Model: artificial_cbow.model, Similarity: 0.06289207190275192
-Model: natural_cbow.model, Similarity: 0.22189514338970184
-Model: artificial_sg.model, Similarity: 0.13464641571044922
-Model: natural_sg.model, Similarity: 0.18232780694961548
-
-Word Pair: (reference, أسهل)
-Model: artificial_cbow.model, Similarity: 0.05015112832188606
-Model: natural_cbow.model, Similarity: 0.14911708235740662
-Model: artificial_sg.model, Similarity: 0.07616829127073288
-Model: natural_sg.model, Similarity: 0.2116907238960266
-
-Word Pair: (طريق, النادي)
-Model: artificial_cbow.model, Similarity: 0.11843784898519516
-Model: natural_cbow.model, Similarity: -0.129174143075943
-Model: artificial_sg.model, Similarity: 0.1396283507347107
-Model: natural_sg.model, Similarity: 0.18141502141952515
-
-Word Pair: (المعادي, سبعة)
-Model: artificial_cbow.model, Similarity: -0.009445669129490852
-Model: natural_cbow.model, Similarity: 0.03316786512732506
-Model: artificial_sg.model, Similarity: 0.11274620145559311
-Model: natural_sg.model, Similarity: 0.21881893277168274
-
-Word Pair: (person, بالمناسبة)
-Model: artificial_cbow.model, Similarity: -0.003937229514122009
-Model: natural_cbow.model, Similarity: 0.009039374068379402
-Model: artificial_sg.model, Similarity: 0.1873948574066162
-Model: natural_sg.model, Similarity: 0.06352529674768448
-
-Word Pair: (يقدروا, ليه)
-Model: artificial_cbow.model, Similarity: 0.09764204919338226
-Model: natural_cbow.model, Similarity: 0.06953289359807968
-Model: artificial_sg.model, Similarity: 0.28123825788497925
-Model: natural_sg.model, Similarity: 0.25135108828544617
-
-Word Pair: (أم, قالوا)
-Model: artificial_cbow.model, Similarity: -0.1552594006061554
-Model: natural_cbow.model, Similarity: 0.10379929840564728
-Model: artificial_sg.model, Similarity: -0.04662357643246651
-Model: natural_sg.model, Similarity: 0.35909900069236755
-
-Word Pair: (كمبيوتر, dont)
-Model: artificial_cbow.model, Similarity: -0.2146095186471939
-Model: natural_cbow.model, Similarity: 0.05605201795697212
-Model: artificial_sg.model, Similarity: 0.03187572583556175
-Model: natural_sg.model, Similarity: 0.042836129665374756
-
-Word Pair: (رحلة, تلعب)
-Model: artificial_cbow.model, Similarity: 0.05943720415234566
-Model: natural_cbow.model, Similarity: -0.14312082529067993
-Model: artificial_sg.model, Similarity: 0.2379193753004074
-Model: natural_sg.model, Similarity: 0.0867384672164917
-
-Word Pair: (goal, series)
-Model: artificial_cbow.model, Similarity: 0.2129552811384201
-Model: natural_cbow.model, Similarity: 0.08278636634349823
-Model: artificial_sg.model, Similarity: 0.21943166851997375
-Model: natural_sg.model, Similarity: 0.3033662438392639
-
-Word Pair: (الأخبار, برامج)
-Model: artificial_cbow.model, Similarity: 0.10591655969619751
-Model: natural_cbow.model, Similarity: -0.054997194558382034
-Model: artificial_sg.model, Similarity: 0.13213001191616058
-Model: natural_sg.model, Similarity: 0.1541004329919815
-
-Word Pair: (weekends, ال)
-Model: artificial_cbow.model, Similarity: -0.10411529242992401
-Model: natural_cbow.model, Similarity: 0.07648666203022003
-Model: artificial_sg.model, Similarity: 0.08603692054748535
-Model: natural_sg.model, Similarity: 0.2514110207557678
-
-Word Pair: (نوع, اليوتيوب)
-Model: artificial_cbow.model, Similarity: 0.0778433084487915
-Model: natural_cbow.model, Similarity: -0.1345554143190384
-Model: artificial_sg.model, Similarity: 0.21092677116394043
-Model: natural_sg.model, Similarity: 0.011754952371120453
-
-Word Pair: (بيقولوا, قريب)
-Model: artificial_cbow.model, Similarity: 0.16322530806064606
-Model: natural_cbow.model, Similarity: -0.20079270005226135
-Model: artificial_sg.model, Similarity: 0.2546354830265045
-Model: natural_sg.model, Similarity: -0.015376205556094646
-
-Word Pair: (صغيرة, كانوا)
-Model: artificial_cbow.model, Similarity: 0.1351230889558792
-Model: natural_cbow.model, Similarity: 0.010914347134530544
-Model: artificial_sg.model, Similarity: 0.1232268288731575
-Model: natural_sg.model, Similarity: 0.1025145873427391
-
-Word Pair: (have, إن)
-Model: artificial_cbow.model, Similarity: -0.09205961972475052
-Model: natural_cbow.model, Similarity: 0.08659808337688446
-Model: artificial_sg.model, Similarity: 0.1738453060388565
-Model: natural_sg.model, Similarity: 0.22437886893749237
-
-Word Pair: (النهاردة, البلاد)
-Model: artificial_cbow.model, Similarity: 0.026640450581908226
-Model: natural_cbow.model, Similarity: 0.15662631392478943
-Model: artificial_sg.model, Similarity: 0.06745325028896332
-Model: natural_sg.model, Similarity: 0.2153131514787674
-
-Word Pair: (الخطوة, طويل)
-Model: artificial_cbow.model, Similarity: 0.07270864397287369
-Model: natural_cbow.model, Similarity: 0.044283755123615265
-Model: artificial_sg.model, Similarity: 0.10040894895792007
-Model: natural_sg.model, Similarity: 0.20359846949577332
-
-Word Pair: (لو, أذاكر)
-Model: artificial_cbow.model, Similarity: 0.015713457018136978
-Model: natural_cbow.model, Similarity: 0.1989745795726776
-Model: artificial_sg.model, Similarity: 0.23386895656585693
-Model: natural_sg.model, Similarity: 0.18691125512123108
-
-Word Pair: (بتاعتي, حوالين)
-Model: artificial_cbow.model, Similarity: -0.058951884508132935
-Model: natural_cbow.model, Similarity: -0.07083135098218918
-Model: artificial_sg.model, Similarity: 0.15927273035049438
-Model: natural_sg.model, Similarity: 0.03958970308303833
-
-Word Pair: (history, مركز)
-Model: artificial_cbow.model, Similarity: 0.07924862205982208
-Model: natural_cbow.model, Similarity: 0.029421135783195496
-Model: artificial_sg.model, Similarity: 0.1974298506975174
-Model: natural_sg.model, Similarity: 0.2820187211036682
-
-Word Pair: (touch, meeting)
-Model: artificial_cbow.model, Similarity: 0.0628104954957962
-Model: natural_cbow.model, Similarity: 0.21101851761341095
-Model: artificial_sg.model, Similarity: 0.0990392193198204
-Model: natural_sg.model, Similarity: 0.3692212402820587
-
-Word Pair: (تلاقي, ليه)
-Model: artificial_cbow.model, Similarity: -0.05533919110894203
-Model: natural_cbow.model, Similarity: -0.09217170625925064
-Model: artificial_sg.model, Similarity: 0.24515578150749207
-Model: natural_sg.model, Similarity: -0.085576131939888
-
-Word Pair: (يقول, الوحيدة)
-Model: artificial_cbow.model, Similarity: 0.13211087882518768
-Model: natural_cbow.model, Similarity: -0.0775679275393486
-Model: artificial_sg.model, Similarity: 0.1943703144788742
-Model: natural_sg.model, Similarity: 0.13486148416996002
-
-Word Pair: (communication, اكيد)
-Model: artificial_cbow.model, Similarity: 0.040462758392095566
-Model: natural_cbow.model, Similarity: 0.023874659091234207
-Model: artificial_sg.model, Similarity: 0.08939313143491745
-Model: natural_sg.model, Similarity: 0.08388760685920715
-
-Word Pair: (تحفة, صاحب)
-Model: artificial_cbow.model, Similarity: 0.17730125784873962
-Model: natural_cbow.model, Similarity: -0.046612661331892014
-Model: artificial_sg.model, Similarity: 0.22795327007770538
-Model: natural_sg.model, Similarity: 0.20941290259361267
-
-Word Pair: (عم, جيت)
-Model: artificial_cbow.model, Similarity: 0.051646795123815536
-Model: natural_cbow.model, Similarity: 0.00828267727047205
-Model: artificial_sg.model, Similarity: 0.13399940729141235
-Model: natural_sg.model, Similarity: 0.18955402076244354
-
-Word Pair: (بشكل, english)
-Model: artificial_cbow.model, Similarity: 0.15545694530010223
-Model: natural_cbow.model, Similarity: -0.2304830104112625
-Model: artificial_sg.model, Similarity: 0.31857627630233765
-Model: natural_sg.model, Similarity: -0.06478677690029144
-
-Word Pair: (interest, قعدت)
-Model: artificial_cbow.model, Similarity: -0.004442003555595875
-Model: natural_cbow.model, Similarity: -0.09087570756673813
-Model: artificial_sg.model, Similarity: 0.0615377239882946
-Model: natural_sg.model, Similarity: -0.06524545699357986
-
-Word Pair: (deadline, أصلاً)
-Model: artificial_cbow.model, Similarity: 0.04906604811549187
-Model: natural_cbow.model, Similarity: 0.021277541294693947
-Model: artificial_sg.model, Similarity: 0.17627517879009247
-Model: natural_sg.model, Similarity: 0.042640674859285355
-
-Word Pair: (بعدين, book)
-Model: artificial_cbow.model, Similarity: -0.22712256014347076
-Model: natural_cbow.model, Similarity: -0.24626389145851135
-Model: artificial_sg.model, Similarity: 0.021368009969592094
-Model: natural_sg.model, Similarity: -0.056487537920475006
-
-Word Pair: (طويل, does)
-Model: artificial_cbow.model, Similarity: 0.008938373997807503
-Model: natural_cbow.model, Similarity: 0.09612400829792023
-Model: artificial_sg.model, Similarity: 0.11622289568185806
-Model: natural_sg.model, Similarity: 0.031132135540246964
-
-Word Pair: (applications, قالوا)
-Model: artificial_cbow.model, Similarity: -0.005914194043725729
-Model: natural_cbow.model, Similarity: -0.06690659373998642
-Model: artificial_sg.model, Similarity: 0.11730914562940598
-Model: natural_sg.model, Similarity: 0.10130023956298828
-
-Word Pair: (أعرف, قالوا)
-Model: artificial_cbow.model, Similarity: 0.3569537103176117
-Model: natural_cbow.model, Similarity: 0.03371519222855568
-Model: artificial_sg.model, Similarity: 0.1394990086555481
-Model: natural_sg.model, Similarity: 0.16853851079940796
-
-Word Pair: (تيجي, نتكلم)
-Model: artificial_cbow.model, Similarity: 0.10936303436756134
-Model: natural_cbow.model, Similarity: 0.21507886052131653
-Model: artificial_sg.model, Similarity: 0.25941702723503113
-Model: natural_sg.model, Similarity: 0.20200680196285248
-
-Word Pair: (complex, وبعدين)
-Model: artificial_cbow.model, Similarity: -0.2915576696395874
-Model: natural_cbow.model, Similarity: 0.1631043255329132
-Model: artificial_sg.model, Similarity: 0.0031260973773896694
-Model: natural_sg.model, Similarity: 0.22385510802268982
-
-Word Pair: (100, بعيدة)
-Model: artificial_cbow.model, Similarity: 0.01836351491510868
-Model: natural_cbow.model, Similarity: -0.02665763534605503
-Model: artificial_sg.model, Similarity: 0.21575945615768433
-Model: natural_sg.model, Similarity: 0.1397448033094406
-
-Word Pair: (own, first)
-Model: artificial_cbow.model, Similarity: 0.23114678263664246
-Model: natural_cbow.model, Similarity: 0.10789700597524643
-Model: artificial_sg.model, Similarity: 0.30029523372650146
-Model: natural_sg.model, Similarity: 0.2219221591949463
-
-Word Pair: (وحتى, أحسن)
-Model: artificial_cbow.model, Similarity: 0.051288578659296036
-Model: natural_cbow.model, Similarity: -0.18308529257774353
-Model: artificial_sg.model, Similarity: 0.059005510061979294
-Model: natural_sg.model, Similarity: 0.11729350686073303
-
-Word Pair: (جدا, وعلى)
-Model: artificial_cbow.model, Similarity: 0.004558044485747814
-Model: natural_cbow.model, Similarity: -0.19270794093608856
-Model: artificial_sg.model, Similarity: 0.12187040597200394
-Model: natural_sg.model, Similarity: 0.03078474849462509
-
-Word Pair: (بسمع, pressure)
-Model: artificial_cbow.model, Similarity: -0.011104915291070938
-Model: natural_cbow.model, Similarity: 0.05409353971481323
-Model: artificial_sg.model, Similarity: 0.22155772149562836
-Model: natural_sg.model, Similarity: 0.13199272751808167
-
-Word Pair: (am, application)
-Model: artificial_cbow.model, Similarity: -0.04469792917370796
-Model: natural_cbow.model, Similarity: 0.0777154192328453
-Model: artificial_sg.model, Similarity: 0.005340012721717358
-Model: natural_sg.model, Similarity: 0.36622655391693115
-
-Word Pair: (أرجع, أعيش)
-Model: artificial_cbow.model, Similarity: 0.04640328511595726
-Model: natural_cbow.model, Similarity: 0.13876453042030334
-Model: artificial_sg.model, Similarity: -0.05859692022204399
-Model: natural_sg.model, Similarity: 0.23474372923374176
-
-Word Pair: (خير, programming)
-Model: artificial_cbow.model, Similarity: 0.12036801874637604
-Model: natural_cbow.model, Similarity: -0.05215546488761902
-Model: artificial_sg.model, Similarity: 0.10504772514104843
-Model: natural_sg.model, Similarity: 0.1069844514131546
-
-Word Pair: (parttime, التواصل)
-Model: artificial_cbow.model, Similarity: 0.021399952471256256
-Model: natural_cbow.model, Similarity: -0.16290050745010376
-Model: artificial_sg.model, Similarity: 0.18802925944328308
-Model: natural_sg.model, Similarity: 0.06399782001972198
-
-Word Pair: (حياتي, ساكن)
-Model: artificial_cbow.model, Similarity: 0.22158510982990265
-Model: natural_cbow.model, Similarity: 0.05626881495118141
-Model: artificial_sg.model, Similarity: 0.1537242978811264
-Model: natural_sg.model, Similarity: 0.1330356001853943
-
-Word Pair: (باستخدام, الأكل)
-Model: artificial_cbow.model, Similarity: 0.03179645910859108
-Model: natural_cbow.model, Similarity: 0.09837522357702255
-Model: artificial_sg.model, Similarity: 0.1939399242401123
-Model: natural_sg.model, Similarity: 0.07339916378259659
-
-Word Pair: (حسيت, بدرس)
-Model: artificial_cbow.model, Similarity: 0.16411595046520233
-Model: natural_cbow.model, Similarity: 0.08416804671287537
-Model: artificial_sg.model, Similarity: 0.2980941832065582
-Model: natural_sg.model, Similarity: 0.12895499169826508
-
-Word Pair: (عايزه, believe)
-Model: artificial_cbow.model, Similarity: 0.1329800933599472
-Model: natural_cbow.model, Similarity: -0.13586947321891785
-Model: artificial_sg.model, Similarity: 0.16051022708415985
-Model: natural_sg.model, Similarity: 0.14302736520767212
-
-Word Pair: (based, يا)
-Model: artificial_cbow.model, Similarity: 0.01625608652830124
-Model: natural_cbow.model, Similarity: -0.10003526508808136
-Model: artificial_sg.model, Similarity: 0.15044140815734863
-Model: natural_sg.model, Similarity: -0.026552515104413033
-
-Word Pair: (ساعة, تخيل)
-Model: artificial_cbow.model, Similarity: 0.09464012831449509
-Model: natural_cbow.model, Similarity: -0.04582218453288078
-Model: artificial_sg.model, Similarity: 0.20184016227722168
-Model: natural_sg.model, Similarity: 0.1602177619934082
-
-Word Pair: (mood, العربي)
-Model: artificial_cbow.model, Similarity: 0.09523582458496094
-Model: natural_cbow.model, Similarity: -0.027844807133078575
-Model: artificial_sg.model, Similarity: 0.16187222301959991
-Model: natural_sg.model, Similarity: 0.15804705023765564
-
-Word Pair: (midterm, اروح)
-Model: artificial_cbow.model, Similarity: 0.04841725900769234
-Model: natural_cbow.model, Similarity: 0.001853813068009913
-Model: artificial_sg.model, Similarity: 0.2014959454536438
-Model: natural_sg.model, Similarity: 0.1788138896226883
-
-Word Pair: (اي, بكون)
-Model: artificial_cbow.model, Similarity: 0.16674679517745972
-Model: natural_cbow.model, Similarity: 0.2571042776107788
-Model: artificial_sg.model, Similarity: 0.17914189398288727
-Model: natural_sg.model, Similarity: 0.21270711719989777
-
-Word Pair: (نعمل, كلها)
-Model: artificial_cbow.model, Similarity: -0.028142672032117844
-Model: natural_cbow.model, Similarity: -0.051998112350702286
-Model: artificial_sg.model, Similarity: 0.10910633206367493
-Model: natural_sg.model, Similarity: -0.000885116751305759
-
-Word Pair: (apple, weird)
-Model: artificial_cbow.model, Similarity: 0.07822477072477341
-Model: natural_cbow.model, Similarity: 0.08478178828954697
-Model: artificial_sg.model, Similarity: 0.1586242914199829
-Model: natural_sg.model, Similarity: 0.2877679765224457
-
-Word Pair: (beautiful, فيش)
-Model: artificial_cbow.model, Similarity: 0.014303007163107395
-Model: natural_cbow.model, Similarity: 0.08321602642536163
-Model: artificial_sg.model, Similarity: 0.06253296136856079
-Model: natural_sg.model, Similarity: 0.10701343417167664
-
-Word Pair: (less, software)
-Model: artificial_cbow.model, Similarity: -0.11628437787294388
-Model: natural_cbow.model, Similarity: -0.024856850504875183
-Model: artificial_sg.model, Similarity: 0.03497627004981041
-Model: natural_sg.model, Similarity: 0.12084212899208069
-
-Word Pair: (masters, dream)
-Model: artificial_cbow.model, Similarity: 0.16586919128894806
-Model: natural_cbow.model, Similarity: 0.1912001520395279
-Model: artificial_sg.model, Similarity: 0.3187738358974457
-Model: natural_sg.model, Similarity: 0.25964346528053284
-
-Word Pair: (صحابي, الجديد)
-Model: artificial_cbow.model, Similarity: 0.08359529823064804
-Model: natural_cbow.model, Similarity: 0.14816361665725708
-Model: artificial_sg.model, Similarity: 0.1590944528579712
-Model: natural_sg.model, Similarity: 0.2562888562679291
-
-Word Pair: (رحت, أكيد)
-Model: artificial_cbow.model, Similarity: -0.14524729549884796
-Model: natural_cbow.model, Similarity: -0.2161603420972824
-Model: artificial_sg.model, Similarity: 0.16931399703025818
-Model: natural_sg.model, Similarity: 0.13033877313137054
-
-Word Pair: (وكان, four)
-Model: artificial_cbow.model, Similarity: -0.05982780456542969
-Model: natural_cbow.model, Similarity: -0.08297735452651978
-Model: artificial_sg.model, Similarity: 0.043883755803108215
-Model: natural_sg.model, Similarity: 0.053851451724767685
-
-Word Pair: (ناس, 4)
-Model: artificial_cbow.model, Similarity: -0.020921096205711365
-Model: natural_cbow.model, Similarity: -0.0028527218382805586
-Model: artificial_sg.model, Similarity: 0.10680186748504639
-Model: natural_sg.model, Similarity: 0.11256670206785202
-
-Word Pair: (ال, would)
-Model: artificial_cbow.model, Similarity: -0.12196794152259827
-Model: natural_cbow.model, Similarity: -0.00013741350267082453
-Model: artificial_sg.model, Similarity: 0.01309208758175373
-Model: natural_sg.model, Similarity: 0.17114774882793427
-
-Word Pair: (طويل, جوجل)
-Model: artificial_cbow.model, Similarity: -0.08559265732765198
-Model: natural_cbow.model, Similarity: -0.05540107563138008
-Model: artificial_sg.model, Similarity: -0.0033532073721289635
-Model: natural_sg.model, Similarity: 0.05021918565034866
-
-Word Pair: (بكون, space)
-Model: artificial_cbow.model, Similarity: 0.1001526340842247
-Model: natural_cbow.model, Similarity: -0.22116194665431976
-Model: artificial_sg.model, Similarity: 0.1465030312538147
-Model: natural_sg.model, Similarity: 0.03307316452264786
-
-Word Pair: (وال, يومك)
-Model: artificial_cbow.model, Similarity: 0.13469204306602478
-Model: natural_cbow.model, Similarity: -0.07721216976642609
-Model: artificial_sg.model, Similarity: 0.19864928722381592
-Model: natural_sg.model, Similarity: 0.22016407549381256
-
-Word Pair: (كتابة, تمانية)
-Model: artificial_cbow.model, Similarity: -0.04107290133833885
-Model: natural_cbow.model, Similarity: 0.009724058210849762
-Model: artificial_sg.model, Similarity: 0.1853836625814438
-Model: natural_sg.model, Similarity: 0.10363028943538666
-
-Word Pair: (لطيفة, know)
-Model: artificial_cbow.model, Similarity: -0.11226718127727509
-Model: natural_cbow.model, Similarity: -0.08615244179964066
-Model: artificial_sg.model, Similarity: 0.1860916018486023
-Model: natural_sg.model, Similarity: 0.11181269586086273
-
-Word Pair: (عمرك, اللحظة)
-Model: artificial_cbow.model, Similarity: 0.17047183215618134
-Model: natural_cbow.model, Similarity: 0.1127718836069107
-Model: artificial_sg.model, Similarity: 0.2617330849170685
-Model: natural_sg.model, Similarity: 0.3132595121860504
-
-Word Pair: (كلمة, الخميس)
-Model: artificial_cbow.model, Similarity: -0.0410277433693409
-Model: natural_cbow.model, Similarity: -0.13542577624320984
-Model: artificial_sg.model, Similarity: 0.06441520899534225
-Model: natural_sg.model, Similarity: 0.07317996025085449
-
-Word Pair: (style, سؤال)
-Model: artificial_cbow.model, Similarity: 0.10517127066850662
-Model: natural_cbow.model, Similarity: 0.18843351304531097
-Model: artificial_sg.model, Similarity: 0.19670020043849945
-Model: natural_sg.model, Similarity: 0.18058857321739197
-
-Word Pair: (rest, whats)
-Model: artificial_cbow.model, Similarity: -0.08604000508785248
-Model: natural_cbow.model, Similarity: 0.2126103937625885
-Model: artificial_sg.model, Similarity: 0.005991601850837469
-Model: natural_sg.model, Similarity: 0.27386990189552307
-
-Word Pair: (أسيب, قوة)
-Model: artificial_cbow.model, Similarity: 0.055316489189863205
-Model: natural_cbow.model, Similarity: -0.03646208345890045
-Model: artificial_sg.model, Similarity: 0.20175686478614807
-Model: natural_sg.model, Similarity: 0.2400505244731903
-
-Word Pair: (نمت, بتشتغل)
-Model: artificial_cbow.model, Similarity: -0.03965773805975914
-Model: natural_cbow.model, Similarity: 0.012108515948057175
-Model: artificial_sg.model, Similarity: 0.1418716162443161
-Model: natural_sg.model, Similarity: 0.17074163258075714
-
-Word Pair: (عملوا, اليوتيوب)
-Model: artificial_cbow.model, Similarity: 0.05084732919931412
-Model: natural_cbow.model, Similarity: 0.027532706037163734
-Model: artificial_sg.model, Similarity: 0.28689736127853394
-Model: natural_sg.model, Similarity: 0.17322847247123718
-
-Word Pair: (zone, الشباب)
-Model: artificial_cbow.model, Similarity: -0.10861803591251373
-Model: natural_cbow.model, Similarity: 0.007303743623197079
-Model: artificial_sg.model, Similarity: 0.1876932680606842
-Model: natural_sg.model, Similarity: 0.1691271811723709
-
-Word Pair: (بتاعك, whether)
-Model: artificial_cbow.model, Similarity: 0.005650895647704601
-Model: natural_cbow.model, Similarity: 0.08237538486719131
-Model: artificial_sg.model, Similarity: 0.1353161484003067
-Model: natural_sg.model, Similarity: 0.1550566405057907
-
-Word Pair: (عمري, most)
-Model: artificial_cbow.model, Similarity: 0.07518520951271057
-Model: natural_cbow.model, Similarity: -0.1327051818370819
-Model: artificial_sg.model, Similarity: 0.16778431832790375
-Model: natural_sg.model, Similarity: 0.2209206372499466
-
-Word Pair: (تطلب, كويسة)
-Model: artificial_cbow.model, Similarity: -0.02814902924001217
-Model: natural_cbow.model, Similarity: -0.0064603546634316444
-Model: artificial_sg.model, Similarity: 0.08086344599723816
-Model: natural_sg.model, Similarity: 0.11753274500370026
-
-Word Pair: (الملف, بالظبط)
-Model: artificial_cbow.model, Similarity: 0.20270520448684692
-Model: natural_cbow.model, Similarity: 0.14974820613861084
-Model: artificial_sg.model, Similarity: 0.2890898883342743
-Model: natural_sg.model, Similarity: 0.13466210663318634
-
-Word Pair: (البني, نوصل)
-Model: artificial_cbow.model, Similarity: 0.12746818363666534
-Model: natural_cbow.model, Similarity: 0.08760228008031845
-Model: artificial_sg.model, Similarity: 0.2874488830566406
-Model: natural_sg.model, Similarity: 0.3608768880367279
-
-Word Pair: (global, زي)
-Model: artificial_cbow.model, Similarity: -0.04382488876581192
-Model: natural_cbow.model, Similarity: 0.007418150547891855
-Model: artificial_sg.model, Similarity: -0.05004388839006424
-Model: natural_sg.model, Similarity: 0.4117474853992462
-
-Word Pair: (مشهور, نقول)
-Model: artificial_cbow.model, Similarity: 0.010555338114500046
-Model: natural_cbow.model, Similarity: 0.1887437105178833
-Model: artificial_sg.model, Similarity: 0.03877495601773262
-Model: natural_sg.model, Similarity: 0.26827535033226013
-
-Word Pair: (him, عندنا)
-Model: artificial_cbow.model, Similarity: 0.005520128645002842
-Model: natural_cbow.model, Similarity: 0.039285462349653244
-Model: artificial_sg.model, Similarity: 0.24073414504528046
-Model: natural_sg.model, Similarity: 0.24069716036319733
-
-Word Pair: (سنتين, أكيد)
-Model: artificial_cbow.model, Similarity: -0.18030449748039246
-Model: natural_cbow.model, Similarity: 0.07215706259012222
-Model: artificial_sg.model, Similarity: 0.08568474650382996
-Model: natural_sg.model, Similarity: 0.1419163942337036
-
-Word Pair: (ممتاز, فيهم)
-Model: artificial_cbow.model, Similarity: 0.0011313686845824122
-Model: natural_cbow.model, Similarity: -0.16240796446800232
-Model: artificial_sg.model, Similarity: 0.13824307918548584
-Model: natural_sg.model, Similarity: 0.1297019124031067
-
-Word Pair: (الظهر, about)
-Model: artificial_cbow.model, Similarity: -0.0671747550368309
-Model: natural_cbow.model, Similarity: -0.023636864498257637
-Model: artificial_sg.model, Similarity: 0.11196820437908173
-Model: natural_sg.model, Similarity: 0.14817938208580017
-
-Word Pair: (united, عليا)
-Model: artificial_cbow.model, Similarity: 0.06544110178947449
-Model: natural_cbow.model, Similarity: -0.09938016533851624
-Model: artificial_sg.model, Similarity: 0.14305877685546875
-Model: natural_sg.model, Similarity: 0.15546059608459473
-
-Word Pair: (حياتنا, معاه)
-Model: artificial_cbow.model, Similarity: -0.04381449893116951
-Model: natural_cbow.model, Similarity: -0.01914213038980961
-Model: artificial_sg.model, Similarity: 0.07063493877649307
-Model: natural_sg.model, Similarity: 0.12460190057754517
-
-Word Pair: (two, طاقة)
-Model: artificial_cbow.model, Similarity: 0.10252165049314499
-Model: natural_cbow.model, Similarity: 0.06350874900817871
-Model: artificial_sg.model, Similarity: -0.005902215838432312
-Model: natural_sg.model, Similarity: 0.07693371176719666
-
-Word Pair: (الدراسة, مهندس)
-Model: artificial_cbow.model, Similarity: 0.10222489386796951
-Model: natural_cbow.model, Similarity: -0.08878552913665771
-Model: artificial_sg.model, Similarity: 0.3378061354160309
-Model: natural_sg.model, Similarity: 0.10659246891736984
-
-Word Pair: (الشتاء, بعيدة)
-Model: artificial_cbow.model, Similarity: -0.009168381802737713
-Model: natural_cbow.model, Similarity: 0.10581566393375397
-Model: artificial_sg.model, Similarity: 0.22778350114822388
-Model: natural_sg.model, Similarity: 0.13891854882240295
-
-Word Pair: (get, قصة)
-Model: artificial_cbow.model, Similarity: -0.09453392773866653
-Model: natural_cbow.model, Similarity: 0.0018532727845013142
-Model: artificial_sg.model, Similarity: 0.03731008246541023
-Model: natural_sg.model, Similarity: 0.0499168336391449
-
-Word Pair: (he, فيك)
-Model: artificial_cbow.model, Similarity: 0.07065089792013168
-Model: natural_cbow.model, Similarity: 0.043790046125650406
-Model: artificial_sg.model, Similarity: 0.19127914309501648
-Model: natural_sg.model, Similarity: 0.11604097485542297
-
-Word Pair: (جدا, back)
-Model: artificial_cbow.model, Similarity: 0.028239356353878975
-Model: natural_cbow.model, Similarity: -0.1683725267648697
-Model: artificial_sg.model, Similarity: 0.1351330429315567
-Model: natural_sg.model, Similarity: -0.060940708965063095
-
-Word Pair: (استخدام, كثير)
-Model: artificial_cbow.model, Similarity: -0.05796513333916664
-Model: natural_cbow.model, Similarity: 0.2741907835006714
-Model: artificial_sg.model, Similarity: 0.11378675699234009
-Model: natural_sg.model, Similarity: 0.2557506561279297
-
-Word Pair: (place, تعمل)
-Model: artificial_cbow.model, Similarity: 0.010580698028206825
-Model: natural_cbow.model, Similarity: -0.17643697559833527
-Model: artificial_sg.model, Similarity: 0.0867137610912323
-Model: natural_sg.model, Similarity: 0.07974818348884583
-
-Word Pair: (طرق, بأي)
-Model: artificial_cbow.model, Similarity: 0.08983269333839417
-Model: natural_cbow.model, Similarity: 0.005730355158448219
-Model: artificial_sg.model, Similarity: 0.2377748340368271
-Model: natural_sg.model, Similarity: 0.06451918929815292
-
-Word Pair: (المادة, كنت)
-Model: artificial_cbow.model, Similarity: -0.014232387766242027
-Model: natural_cbow.model, Similarity: 0.004177536815404892
-Model: artificial_sg.model, Similarity: 0.10137155652046204
-Model: natural_sg.model, Similarity: 0.17616070806980133
-
-Word Pair: (فرصة, بتشتغل)
-Model: artificial_cbow.model, Similarity: 0.2765405476093292
-Model: natural_cbow.model, Similarity: -0.030008625239133835
-Model: artificial_sg.model, Similarity: 0.17113710939884186
-Model: natural_sg.model, Similarity: 0.1429574340581894
-
-Word Pair: (هي, information)
-Model: artificial_cbow.model, Similarity: 0.09116615355014801
-Model: natural_cbow.model, Similarity: 0.1737421303987503
-Model: artificial_sg.model, Similarity: 0.20126862823963165
-Model: natural_sg.model, Similarity: 0.16613520681858063
-
-Word Pair: (فيديو, electronics)
-Model: artificial_cbow.model, Similarity: 0.032055631279945374
-Model: natural_cbow.model, Similarity: -0.06983815878629684
-Model: artificial_sg.model, Similarity: 0.2363497018814087
-Model: natural_sg.model, Similarity: 0.17791379988193512
-
-Word Pair: (يكمل, بتكلم)
-Model: artificial_cbow.model, Similarity: 0.12667466700077057
-Model: natural_cbow.model, Similarity: -0.2597436010837555
-Model: artificial_sg.model, Similarity: 0.11995509266853333
-Model: natural_sg.model, Similarity: -0.04875713586807251
-
-Word Pair: (everything, we)
-Model: artificial_cbow.model, Similarity: 0.19289493560791016
-Model: natural_cbow.model, Similarity: 0.22987885773181915
-Model: artificial_sg.model, Similarity: 0.28270888328552246
-Model: natural_sg.model, Similarity: 0.3684435784816742
-
-Word Pair: (بعض, definitely)
-Model: artificial_cbow.model, Similarity: -0.10454723238945007
-Model: natural_cbow.model, Similarity: -0.01105607207864523
-Model: artificial_sg.model, Similarity: -0.003205779241397977
-Model: natural_sg.model, Similarity: -0.0005359237547963858
-
-Word Pair: (work, طول)
-Model: artificial_cbow.model, Similarity: 0.006988801062107086
-Model: natural_cbow.model, Similarity: -0.14456529915332794
-Model: artificial_sg.model, Similarity: 0.13643355667591095
-Model: natural_sg.model, Similarity: 0.02878829464316368
-
-Word Pair: (إننا, good)
-Model: artificial_cbow.model, Similarity: -0.08241915702819824
-Model: natural_cbow.model, Similarity: -0.05381189286708832
-Model: artificial_sg.model, Similarity: 0.12514130771160126
-Model: natural_sg.model, Similarity: 0.03722327575087547
-
-Word Pair: (لبس, الفيديو)
-Model: artificial_cbow.model, Similarity: 0.01940741017460823
-Model: natural_cbow.model, Similarity: -0.058964356780052185
-Model: artificial_sg.model, Similarity: -0.0017838238272815943
-Model: natural_sg.model, Similarity: 0.19505435228347778
-
-Word Pair: (البرنامج, رأيك)
-Model: artificial_cbow.model, Similarity: -0.014995338395237923
-Model: natural_cbow.model, Similarity: -0.15994520485401154
-Model: artificial_sg.model, Similarity: 0.23410840332508087
-Model: natural_sg.model, Similarity: 0.11837048083543777
-
-Word Pair: (فاضية, انت)
-Model: artificial_cbow.model, Similarity: 0.07740803062915802
-Model: natural_cbow.model, Similarity: 0.0915909856557846
-Model: artificial_sg.model, Similarity: 0.11821487545967102
-Model: natural_sg.model, Similarity: 0.08917958289384842
-
-Word Pair: (كانوا, بطل)
-Model: artificial_cbow.model, Similarity: 0.06347555667161942
-Model: natural_cbow.model, Similarity: -0.004996202886104584
-Model: artificial_sg.model, Similarity: 0.21926918625831604
-Model: natural_sg.model, Similarity: 0.042764462530612946
-
-Word Pair: (بعيدة, وأنت)
-Model: artificial_cbow.model, Similarity: 0.08130010962486267
-Model: natural_cbow.model, Similarity: -0.1257166713476181
-Model: artificial_sg.model, Similarity: 0.06403001397848129
-Model: natural_sg.model, Similarity: 0.05336891487240791
-
-Word Pair: (امتى, مين)
-Model: artificial_cbow.model, Similarity: 0.2884795069694519
-Model: natural_cbow.model, Similarity: 0.09386088699102402
-Model: artificial_sg.model, Similarity: 0.4193575084209442
-Model: natural_sg.model, Similarity: 0.18360163271427155
-
-Word Pair: (بحاجة, عنده)
-Model: artificial_cbow.model, Similarity: 0.030533738434314728
-Model: natural_cbow.model, Similarity: 0.012776699848473072
-Model: artificial_sg.model, Similarity: 0.019527623429894447
-Model: natural_sg.model, Similarity: 0.14896515011787415
-
-Word Pair: (جديد, application)
-Model: artificial_cbow.model, Similarity: -0.17838789522647858
-Model: natural_cbow.model, Similarity: 0.0008147540502250195
-Model: artificial_sg.model, Similarity: 0.13613662123680115
-Model: natural_sg.model, Similarity: 0.05044420436024666
-
-Word Pair: (طالما, الي)
-Model: artificial_cbow.model, Similarity: 0.16482512652873993
-Model: natural_cbow.model, Similarity: 0.12141041457653046
-Model: artificial_sg.model, Similarity: 0.12952880561351776
-Model: natural_sg.model, Similarity: 0.10104703903198242
-
-Word Pair: (أنه, بتاعتهم)
-Model: artificial_cbow.model, Similarity: 0.0009512488613836467
-Model: natural_cbow.model, Similarity: -0.13879169523715973
-Model: artificial_sg.model, Similarity: 0.12956051528453827
-Model: natural_sg.model, Similarity: -0.06999771296977997
-
-Word Pair: (منها, ب)
-Model: artificial_cbow.model, Similarity: 0.0239842738956213
-Model: natural_cbow.model, Similarity: -0.0037801095750182867
-Model: artificial_sg.model, Similarity: 0.23148863017559052
-Model: natural_sg.model, Similarity: 0.1718568652868271
-
-Word Pair: (type, green)
-Model: artificial_cbow.model, Similarity: 0.14258794486522675
-Model: natural_cbow.model, Similarity: 0.09243558347225189
-Model: artificial_sg.model, Similarity: 0.32436296343803406
-Model: natural_sg.model, Similarity: 0.12029922008514404
-
-Word Pair: (وكل, الصبح)
-Model: artificial_cbow.model, Similarity: 0.07651553303003311
-Model: natural_cbow.model, Similarity: 0.01922697015106678
-Model: artificial_sg.model, Similarity: 0.19528032839298248
-Model: natural_sg.model, Similarity: 0.19784468412399292
-
-Word Pair: (لأي, الأشخاص)
-Model: artificial_cbow.model, Similarity: 0.07531662285327911
-Model: natural_cbow.model, Similarity: 0.01690719462931156
-Model: artificial_sg.model, Similarity: 0.05691106617450714
-Model: natural_sg.model, Similarity: 0.3679129481315613
-
-Word Pair: (الكلية, أربع)
-Model: artificial_cbow.model, Similarity: -0.018274350091814995
-Model: natural_cbow.model, Similarity: 0.09296859055757523
-Model: artificial_sg.model, Similarity: 0.30631527304649353
-Model: natural_sg.model, Similarity: 0.21708695590496063
-
-Word Pair: (بدأوا, وإن)
-Model: artificial_cbow.model, Similarity: 0.06334975361824036
-Model: natural_cbow.model, Similarity: 0.0744781345129013
-Model: artificial_sg.model, Similarity: 0.0793139785528183
-Model: natural_sg.model, Similarity: 0.16739022731781006
-
-Word Pair: (تاكل, درست)
-Model: artificial_cbow.model, Similarity: 0.05359654128551483
-Model: natural_cbow.model, Similarity: -0.0964575856924057
-Model: artificial_sg.model, Similarity: 0.14909899234771729
-Model: natural_sg.model, Similarity: 0.2629152238368988
-
-Word Pair: (حياتي, lectures)
-Model: artificial_cbow.model, Similarity: -0.02930207923054695
-Model: natural_cbow.model, Similarity: -0.04034142568707466
-Model: artificial_sg.model, Similarity: 0.04897857457399368
-Model: natural_sg.model, Similarity: 0.11031702905893326
-
-Word Pair: (ناجح, عنها)
-Model: artificial_cbow.model, Similarity: 0.0674060583114624
-Model: natural_cbow.model, Similarity: -0.08743949234485626
-Model: artificial_sg.model, Similarity: 0.15046748518943787
-Model: natural_sg.model, Similarity: 0.06233318895101547
-
-Word Pair: (gym, second)
-Model: artificial_cbow.model, Similarity: -0.040721748024225235
-Model: natural_cbow.model, Similarity: 0.015062704682350159
-Model: artificial_sg.model, Similarity: 0.12084786593914032
-Model: natural_sg.model, Similarity: -0.01925620809197426
-
-Word Pair: (بعده, برة)
-Model: artificial_cbow.model, Similarity: -0.011155795305967331
-Model: natural_cbow.model, Similarity: 0.1320069432258606
-Model: artificial_sg.model, Similarity: 0.4240480959415436
-Model: natural_sg.model, Similarity: 0.18081459403038025
-
-Word Pair: (sound, وبالتالي)
-Model: artificial_cbow.model, Similarity: -0.05261857807636261
-Model: natural_cbow.model, Similarity: 0.0296432264149189
-Model: artificial_sg.model, Similarity: 0.1008741706609726
-Model: natural_sg.model, Similarity: 0.09614071249961853
-
-Word Pair: (guess, whatever)
-Model: artificial_cbow.model, Similarity: 0.14209309220314026
-Model: natural_cbow.model, Similarity: 0.01169076282531023
-Model: artificial_sg.model, Similarity: 0.2602711319923401
-Model: natural_sg.model, Similarity: 0.05869193375110626
-
-Word Pair: (rain, لغة)
-Model: artificial_cbow.model, Similarity: 0.07156074792146683
-Model: natural_cbow.model, Similarity: -0.0598607212305069
-Model: artificial_sg.model, Similarity: 0.16134317219257355
-Model: natural_sg.model, Similarity: 0.1824416220188141
-
-Word Pair: (look, بصراحة)
-Model: artificial_cbow.model, Similarity: -0.09088284522294998
-Model: natural_cbow.model, Similarity: -0.13202212750911713
-Model: artificial_sg.model, Similarity: 0.08083899319171906
-Model: natural_sg.model, Similarity: 0.0948304757475853
-
-Word Pair: (بعمل, shape)
-Model: artificial_cbow.model, Similarity: -0.11391685158014297
-Model: natural_cbow.model, Similarity: 0.039178915321826935
-Model: artificial_sg.model, Similarity: 0.030105361714959145
-Model: natural_sg.model, Similarity: 0.139291912317276
-
-Word Pair: (تلعب, بشوف)
-Model: artificial_cbow.model, Similarity: 0.13039597868919373
-Model: natural_cbow.model, Similarity: -0.05114126205444336
-Model: artificial_sg.model, Similarity: 0.032718557864427567
-Model: natural_sg.model, Similarity: 0.06226441636681557
-
-Word Pair: (choose, اسكندرية)
-Model: artificial_cbow.model, Similarity: 0.1081717237830162
-Model: natural_cbow.model, Similarity: 0.04185120016336441
-Model: artificial_sg.model, Similarity: 0.09015580266714096
-Model: natural_sg.model, Similarity: 0.17422862350940704
-
-Word Pair: (interesting, الشمس)
-Model: artificial_cbow.model, Similarity: 0.06534530967473984
-Model: natural_cbow.model, Similarity: 0.07719750702381134
-Model: artificial_sg.model, Similarity: 0.11399493366479874
-Model: natural_sg.model, Similarity: 0.24400673806667328
-
-Word Pair: (things, مهم)
-Model: artificial_cbow.model, Similarity: -0.16969482600688934
-Model: natural_cbow.model, Similarity: 0.018232515081763268
-Model: artificial_sg.model, Similarity: -0.0008076997473835945
-Model: natural_sg.model, Similarity: 0.09134706109762192
-
-Word Pair: (نسافر, شاف)
-Model: artificial_cbow.model, Similarity: -0.05203469842672348
-Model: natural_cbow.model, Similarity: 0.08532291650772095
-Model: artificial_sg.model, Similarity: 0.08897997438907623
-Model: natural_sg.model, Similarity: 0.18832315504550934
-
-Word Pair: (القمر, ماليش)
-Model: artificial_cbow.model, Similarity: 0.006959375459700823
-Model: natural_cbow.model, Similarity: 0.02050098590552807
-Model: artificial_sg.model, Similarity: 0.19332444667816162
-Model: natural_sg.model, Similarity: 0.19703398644924164
-
-Word Pair: (الولد, كمان)
-Model: artificial_cbow.model, Similarity: -0.010390105657279491
-Model: natural_cbow.model, Similarity: 0.03710508719086647
-Model: artificial_sg.model, Similarity: 0.04969393461942673
-Model: natural_sg.model, Similarity: 0.18142181634902954
-
-Word Pair: (تجيب, good)
-Model: artificial_cbow.model, Similarity: 0.016506528481841087
-Model: natural_cbow.model, Similarity: -0.037268221378326416
-Model: artificial_sg.model, Similarity: 0.10721639543771744
-Model: natural_sg.model, Similarity: 0.10596298426389694
-
-Word Pair: (least, خلاص)
-Model: artificial_cbow.model, Similarity: -0.07025377452373505
-Model: natural_cbow.model, Similarity: 0.09877681732177734
-Model: artificial_sg.model, Similarity: 0.11446410417556763
-Model: natural_sg.model, Similarity: 0.1626320332288742
-
-Word Pair: (line, مو)
-Model: artificial_cbow.model, Similarity: 0.008933471515774727
-Model: natural_cbow.model, Similarity: 0.10419002920389175
-Model: artificial_sg.model, Similarity: 0.16866110265254974
-Model: natural_sg.model, Similarity: 0.268871545791626
-
-Word Pair: (عملنا, أتعلم)
-Model: artificial_cbow.model, Similarity: 0.0748644545674324
-Model: natural_cbow.model, Similarity: -0.10006611049175262
-Model: artificial_sg.model, Similarity: 0.03758925944566727
-Model: natural_sg.model, Similarity: 0.16807307302951813
-
-Word Pair: (school, تحت)
-Model: artificial_cbow.model, Similarity: 0.04384153336286545
-Model: natural_cbow.model, Similarity: -0.04736143350601196
-Model: artificial_sg.model, Similarity: 0.15865737199783325
-Model: natural_sg.model, Similarity: 0.10423602908849716
-
-Word Pair: (marketing, back)
-Model: artificial_cbow.model, Similarity: -0.08833405375480652
-Model: natural_cbow.model, Similarity: 0.19345121085643768
-Model: artificial_sg.model, Similarity: 0.11046764999628067
-Model: natural_sg.model, Similarity: 0.20995871722698212
-
-Word Pair: (مهتم, تخلص)
-Model: artificial_cbow.model, Similarity: 0.022576263174414635
-Model: natural_cbow.model, Similarity: 0.09757944196462631
-Model: artificial_sg.model, Similarity: 0.11704345047473907
-Model: natural_sg.model, Similarity: 0.1302688717842102
-
-Word Pair: (related, valley)
-Model: artificial_cbow.model, Similarity: 0.1620745211839676
-Model: natural_cbow.model, Similarity: -0.05374624580144882
-Model: artificial_sg.model, Similarity: 0.33443379402160645
-Model: natural_sg.model, Similarity: 0.1809263378381729
-
-Word Pair: (مجرد, المفروض)
-Model: artificial_cbow.model, Similarity: -0.014381821267306805
-Model: natural_cbow.model, Similarity: -0.05859518423676491
-Model: artificial_sg.model, Similarity: 0.01994602009654045
-Model: natural_sg.model, Similarity: 0.045955680310726166
-
-Word Pair: (مهما, أكثر)
-Model: artificial_cbow.model, Similarity: 0.17238081991672516
-Model: natural_cbow.model, Similarity: 0.0686739981174469
-Model: artificial_sg.model, Similarity: 0.1856665164232254
-Model: natural_sg.model, Similarity: 0.14593906700611115
-
-Word Pair: (semester, أكتر)
-Model: artificial_cbow.model, Similarity: -0.12640021741390228
-Model: natural_cbow.model, Similarity: 0.006219498347491026
-Model: artificial_sg.model, Similarity: 0.17681585252285004
-Model: natural_sg.model, Similarity: 0.05404656380414963
-
-Word Pair: (أعرف, بينما)
-Model: artificial_cbow.model, Similarity: -0.3243810832500458
-Model: natural_cbow.model, Similarity: -0.020011981949210167
-Model: artificial_sg.model, Similarity: 0.00337586528621614
-Model: natural_sg.model, Similarity: 0.087852343916893
-
-Word Pair: (now, please)
-Model: artificial_cbow.model, Similarity: 0.12066096812486649
-Model: natural_cbow.model, Similarity: 0.3069833219051361
-Model: artificial_sg.model, Similarity: 0.2665429413318634
-Model: natural_sg.model, Similarity: 0.2998608350753784
-
-Word Pair: (presentation, كمان)
-Model: artificial_cbow.model, Similarity: -0.12147641181945801
-Model: natural_cbow.model, Similarity: 0.0771322026848793
-Model: artificial_sg.model, Similarity: 0.08059567213058472
-Model: natural_sg.model, Similarity: 0.27045127749443054
-
-Word Pair: (الطريقة, وصلت)
-Model: artificial_cbow.model, Similarity: 0.04686946049332619
-Model: natural_cbow.model, Similarity: 0.003907418809831142
-Model: artificial_sg.model, Similarity: 0.10295458137989044
-Model: natural_sg.model, Similarity: 0.06216932088136673
-
-Word Pair: (بتاعك, speaker)
-Model: artificial_cbow.model, Similarity: -0.018075840547680855
-Model: natural_cbow.model, Similarity: -0.029723545536398888
-Model: artificial_sg.model, Similarity: 0.016286537051200867
-Model: natural_sg.model, Similarity: 0.1645558476448059
-
-Word Pair: (شهر, أسبوعين)
-Model: artificial_cbow.model, Similarity: 0.625127911567688
-Model: natural_cbow.model, Similarity: 0.21992339193820953
-Model: artificial_sg.model, Similarity: 0.43447384238243103
-Model: natural_sg.model, Similarity: 0.2391139268875122
-
-Word Pair: (point, بحيث)
-Model: artificial_cbow.model, Similarity: 0.04056605324149132
-Model: natural_cbow.model, Similarity: 0.06090880185365677
-Model: artificial_sg.model, Similarity: 0.3383004665374756
-Model: natural_sg.model, Similarity: 0.1577792763710022
-
-Word Pair: (movie, أحيانًا)
-Model: artificial_cbow.model, Similarity: -0.07866769284009933
-Model: natural_cbow.model, Similarity: -0.011246620677411556
-Model: artificial_sg.model, Similarity: 0.0971418246626854
-Model: natural_sg.model, Similarity: 0.14166684448719025
-
-Word Pair: (بيبدأ, الحمد)
-Model: artificial_cbow.model, Similarity: -0.022144710645079613
-Model: natural_cbow.model, Similarity: -0.21019892394542694
-Model: artificial_sg.model, Similarity: 0.1497611701488495
-Model: natural_sg.model, Similarity: -0.07697682082653046
-
-Word Pair: (fruit, first)
-Model: artificial_cbow.model, Similarity: -0.0866822749376297
-Model: natural_cbow.model, Similarity: -0.041749149560928345
-Model: artificial_sg.model, Similarity: 0.06970527768135071
-Model: natural_sg.model, Similarity: 0.10118073225021362
-
-Word Pair: (بص, لعب)
-Model: artificial_cbow.model, Similarity: -0.23188601434230804
-Model: natural_cbow.model, Similarity: 0.11998113989830017
-Model: artificial_sg.model, Similarity: 0.020058773458003998
-Model: natural_sg.model, Similarity: 0.12842556834220886
-
-Word Pair: (رواية, music)
-Model: artificial_cbow.model, Similarity: 0.11640642583370209
-Model: natural_cbow.model, Similarity: 0.14570282399654388
-Model: artificial_sg.model, Similarity: 0.194677472114563
-Model: natural_sg.model, Similarity: 0.3732687830924988
-
-Word Pair: (المنتج, تقرير)
-Model: artificial_cbow.model, Similarity: 0.04792387783527374
-Model: natural_cbow.model, Similarity: 0.2876659631729126
-Model: artificial_sg.model, Similarity: 0.26466089487075806
-Model: natural_sg.model, Similarity: 0.30663222074508667
-
-Word Pair: (has, الساعة)
-Model: artificial_cbow.model, Similarity: -0.1115163043141365
-Model: natural_cbow.model, Similarity: 0.10708168148994446
-Model: artificial_sg.model, Similarity: 0.0657055526971817
-Model: natural_sg.model, Similarity: 0.20234449207782745
-
-Word Pair: (تكوني, بيحب)
-Model: artificial_cbow.model, Similarity: 0.00981565285474062
-Model: natural_cbow.model, Similarity: -0.06718547642230988
-Model: artificial_sg.model, Similarity: 0.18843230605125427
-Model: natural_sg.model, Similarity: 0.04459112510085106
-
-Word Pair: (فاضية, حاولت)
-Model: artificial_cbow.model, Similarity: -0.01556658186018467
-Model: natural_cbow.model, Similarity: 0.05125032365322113
-Model: artificial_sg.model, Similarity: 0.03524851053953171
-Model: natural_sg.model, Similarity: 0.23986764252185822
-
-Word Pair: (جديدة, تقريبا)
-Model: artificial_cbow.model, Similarity: -0.09993462264537811
-Model: natural_cbow.model, Similarity: 0.21095651388168335
-Model: artificial_sg.model, Similarity: -0.007946189492940903
-Model: natural_sg.model, Similarity: 0.16601444780826569
-
-Word Pair: (المجال, بين)
-Model: artificial_cbow.model, Similarity: 0.17170581221580505
-Model: natural_cbow.model, Similarity: -0.0021641338244080544
-Model: artificial_sg.model, Similarity: 0.19876955449581146
-Model: natural_sg.model, Similarity: 0.25713932514190674
-
-Word Pair: (تعملي, قدامي)
-Model: artificial_cbow.model, Similarity: -0.022484734654426575
-Model: natural_cbow.model, Similarity: -0.13411512970924377
-Model: artificial_sg.model, Similarity: 0.012641586363315582
-Model: natural_sg.model, Similarity: 0.12284155189990997
-
-Word Pair: (لا, ورا)
-Model: artificial_cbow.model, Similarity: -0.09433647990226746
-Model: natural_cbow.model, Similarity: -0.05278271809220314
-Model: artificial_sg.model, Similarity: 0.058595746755599976
-Model: natural_sg.model, Similarity: -0.06800223886966705
-
-Word Pair: (طبعاً, يقول)
-Model: artificial_cbow.model, Similarity: -0.16834667325019836
-Model: natural_cbow.model, Similarity: -0.0668657049536705
-Model: artificial_sg.model, Similarity: 0.024299850687384605
-Model: natural_sg.model, Similarity: 0.13371331989765167
-
-Word Pair: (service, كان)
-Model: artificial_cbow.model, Similarity: 0.020951375365257263
-Model: natural_cbow.model, Similarity: -0.04633740335702896
-Model: artificial_sg.model, Similarity: 0.254319965839386
-Model: natural_sg.model, Similarity: 0.13131843507289886
-
-Word Pair: (التاريخ, جداً)
-Model: artificial_cbow.model, Similarity: 0.024167243391275406
-Model: natural_cbow.model, Similarity: 0.04364219680428505
-Model: artificial_sg.model, Similarity: 0.13100337982177734
-Model: natural_sg.model, Similarity: 0.2556433081626892
-
-Word Pair: (point, market)
-Model: artificial_cbow.model, Similarity: 0.1094570904970169
-Model: natural_cbow.model, Similarity: -0.054279182106256485
-Model: artificial_sg.model, Similarity: 0.07656396925449371
-Model: natural_sg.model, Similarity: 0.15559691190719604
+Word Pair: (fish, الوقت)
+Model: artificial_cbow.model, Similarity: -0.012938695028424263
+Model: natural_cbow.model, Similarity: -0.07692026346921921
+Model: artificial_sg.model, Similarity: 0.11409266293048859
+Model: natural_sg.model, Similarity: 0.12715308368206024
+
+Word Pair: (code, عارفة)
+Model: artificial_cbow.model, Similarity: 0.3229665756225586
+Model: natural_cbow.model, Similarity: 0.055985771119594574
+Model: artificial_sg.model, Similarity: 0.1260000616312027
+Model: natural_sg.model, Similarity: 0.2731662392616272
+
+Word Pair: (ببقى, super)
+Model: artificial_cbow.model, Similarity: 0.24620328843593597
+Model: natural_cbow.model, Similarity: -0.10732433199882507
+Model: artificial_sg.model, Similarity: 0.14887051284313202
+Model: natural_sg.model, Similarity: 0.17084380984306335
+
+Word Pair: (communication, sea)
+Model: artificial_cbow.model, Similarity: 0.11877599358558655
+Model: natural_cbow.model, Similarity: 0.2040027678012848
+Model: artificial_sg.model, Similarity: 0.14044584333896637
+Model: natural_sg.model, Similarity: 0.1899549663066864
+
+Word Pair: (ساعة, الاقتصادية)
+Model: artificial_cbow.model, Similarity: 0.05489710345864296
+Model: natural_cbow.model, Similarity: -0.01537826843559742
+Model: artificial_sg.model, Similarity: 0.24391743540763855
+Model: natural_sg.model, Similarity: 0.10599835962057114
+
+Word Pair: (entertainment, fine)
+Model: artificial_cbow.model, Similarity: -0.0627819299697876
+Model: natural_cbow.model, Similarity: 0.3969045579433441
+Model: artificial_sg.model, Similarity: 0.2056291103363037
+Model: natural_sg.model, Similarity: 0.3496492803096771
+
+Word Pair: (البداية, عارفين)
+Model: artificial_cbow.model, Similarity: 0.14784906804561615
+Model: natural_cbow.model, Similarity: 0.1946619600057602
+Model: artificial_sg.model, Similarity: 0.25448980927467346
+Model: natural_sg.model, Similarity: 0.3768329620361328
+
+Word Pair: (ريحة, نوع)
+Model: artificial_cbow.model, Similarity: 0.04260019585490227
+Model: natural_cbow.model, Similarity: 0.16412286460399628
+Model: artificial_sg.model, Similarity: 0.27391791343688965
+Model: natural_sg.model, Similarity: 0.3132801055908203
+
+Word Pair: (الناس, information)
+Model: artificial_cbow.model, Similarity: 0.17257021367549896
+Model: natural_cbow.model, Similarity: 0.044831663370132446
+Model: artificial_sg.model, Similarity: 0.20114178955554962
+Model: natural_sg.model, Similarity: 0.14013835787773132
+
+Word Pair: (related, قاللي)
+Model: artificial_cbow.model, Similarity: 0.019096853211522102
+Model: natural_cbow.model, Similarity: -0.09433934837579727
+Model: artificial_sg.model, Similarity: 0.12358233332633972
+Model: natural_sg.model, Similarity: 0.18870322406291962
+
+Word Pair: (الأيام, دي)
+Model: artificial_cbow.model, Similarity: 0.15371909737586975
+Model: natural_cbow.model, Similarity: -0.10802216827869415
+Model: artificial_sg.model, Similarity: 0.43062078952789307
+Model: natural_sg.model, Similarity: 0.14811478555202484
+
+Word Pair: (say, بسيطة)
+Model: artificial_cbow.model, Similarity: 0.11578840762376785
+Model: natural_cbow.model, Similarity: -0.04653515666723251
+Model: artificial_sg.model, Similarity: 0.08416522294282913
+Model: natural_sg.model, Similarity: 0.12603133916854858
+
+Word Pair: (العظيم, دايما)
+Model: artificial_cbow.model, Similarity: 0.10582078248262405
+Model: natural_cbow.model, Similarity: -0.21237854659557343
+Model: artificial_sg.model, Similarity: 0.13465918600559235
+Model: natural_sg.model, Similarity: -0.0002374011091887951
+
+Word Pair: (امتحانات, architecture)
+Model: artificial_cbow.model, Similarity: 0.08087476342916489
+Model: natural_cbow.model, Similarity: -0.03917521610856056
+Model: artificial_sg.model, Similarity: 0.23061874508857727
+Model: natural_sg.model, Similarity: 0.10316236317157745
+
+Word Pair: (أقعد, الجديد)
+Model: artificial_cbow.model, Similarity: 0.06124815344810486
+Model: natural_cbow.model, Similarity: -0.026287009939551353
+Model: artificial_sg.model, Similarity: 0.17993877828121185
+Model: natural_sg.model, Similarity: 0.2351737767457962
+
+Word Pair: (high, الإنجليزية)
+Model: artificial_cbow.model, Similarity: 0.1812661737203598
+Model: natural_cbow.model, Similarity: 0.41020485758781433
+Model: artificial_sg.model, Similarity: 0.17307889461517334
+Model: natural_sg.model, Similarity: 0.30408281087875366
+
+Word Pair: (السبت, اليوتيوب)
+Model: artificial_cbow.model, Similarity: 0.08521999418735504
+Model: natural_cbow.model, Similarity: 0.11361603438854218
+Model: artificial_sg.model, Similarity: -0.020408691838383675
+Model: natural_sg.model, Similarity: 0.20751816034317017
+
+Word Pair: (app, ماروحتش)
+Model: artificial_cbow.model, Similarity: 0.008251961320638657
+Model: natural_cbow.model, Similarity: 0.06967843323945999
+Model: artificial_sg.model, Similarity: 0.06491579115390778
+Model: natural_sg.model, Similarity: 0.21454675495624542
+
+Word Pair: (me, الأسبوع)
+Model: artificial_cbow.model, Similarity: -0.004811217542737722
+Model: natural_cbow.model, Similarity: -0.19735518097877502
+Model: artificial_sg.model, Similarity: 0.04926816746592522
+Model: natural_sg.model, Similarity: 0.10046849399805069
+
+Word Pair: (صحابك, go)
+Model: artificial_cbow.model, Similarity: -0.034332454204559326
+Model: natural_cbow.model, Similarity: -0.1248035579919815
+Model: artificial_sg.model, Similarity: 0.15716640651226044
+Model: natural_sg.model, Similarity: 0.1774080991744995
+
+Word Pair: (أنها, أخدت)
+Model: artificial_cbow.model, Similarity: -0.008337928913533688
+Model: natural_cbow.model, Similarity: -0.1023637130856514
+Model: artificial_sg.model, Similarity: 0.03441501781344414
+Model: natural_sg.model, Similarity: 0.058860354125499725
+
+Word Pair: (europe, الجامعه)
+Model: artificial_cbow.model, Similarity: -0.07313626259565353
+Model: natural_cbow.model, Similarity: 0.4711759686470032
+Model: artificial_sg.model, Similarity: 0.15317203104496002
+Model: natural_sg.model, Similarity: 0.29839804768562317
+
+Word Pair: (كلب, غيرت)
+Model: artificial_cbow.model, Similarity: -0.03426433354616165
+Model: natural_cbow.model, Similarity: 0.0451214574277401
+Model: artificial_sg.model, Similarity: 0.2569722831249237
+Model: natural_sg.model, Similarity: 0.19485732913017273
+
+Word Pair: (النهار, فإن)
+Model: artificial_cbow.model, Similarity: 0.2671946585178375
+Model: natural_cbow.model, Similarity: 0.03333864361047745
+Model: artificial_sg.model, Similarity: 0.10943382978439331
+Model: natural_sg.model, Similarity: 0.3446338176727295
+
+Word Pair: (تقعد, فيش)
+Model: artificial_cbow.model, Similarity: 0.08046210557222366
+Model: natural_cbow.model, Similarity: 0.24116680026054382
+Model: artificial_sg.model, Similarity: 0.19697241485118866
+Model: natural_sg.model, Similarity: 0.23175984621047974
+
+Word Pair: (him, شركة)
+Model: artificial_cbow.model, Similarity: -0.07566063851118088
+Model: natural_cbow.model, Similarity: -0.06098873168230057
+Model: artificial_sg.model, Similarity: 0.14980602264404297
+Model: natural_sg.model, Similarity: 0.07301649451255798
+
+Word Pair: (great, عبد)
+Model: artificial_cbow.model, Similarity: -0.04152589291334152
+Model: natural_cbow.model, Similarity: 0.5350792407989502
+Model: artificial_sg.model, Similarity: 0.13739962875843048
+Model: natural_sg.model, Similarity: 0.42977195978164673
+
+Word Pair: (us, help)
+Model: artificial_cbow.model, Similarity: 0.09120707958936691
+Model: natural_cbow.model, Similarity: 0.4731939435005188
+Model: artificial_sg.model, Similarity: 0.3017561435699463
+Model: natural_sg.model, Similarity: 0.394713819026947
+
+Word Pair: (عايز, قهوة)
+Model: artificial_cbow.model, Similarity: -0.013747782446444035
+Model: natural_cbow.model, Similarity: -0.009856675751507282
+Model: artificial_sg.model, Similarity: 0.15501825511455536
+Model: natural_sg.model, Similarity: 0.20297761261463165
+
+Word Pair: (him, محتاجة)
+Model: artificial_cbow.model, Similarity: -0.1017041951417923
+Model: natural_cbow.model, Similarity: 0.25675520300865173
+Model: artificial_sg.model, Similarity: 0.05346018075942993
+Model: natural_sg.model, Similarity: 0.3504612147808075
+
+Word Pair: (وقتي, بنعمل)
+Model: artificial_cbow.model, Similarity: 0.15512911975383759
+Model: natural_cbow.model, Similarity: 0.329349547624588
+Model: artificial_sg.model, Similarity: 0.1674850881099701
+Model: natural_sg.model, Similarity: 0.3689258098602295
+
+Word Pair: (white, خلاني)
+Model: artificial_cbow.model, Similarity: 0.10393963754177094
+Model: natural_cbow.model, Similarity: 0.255736380815506
+Model: artificial_sg.model, Similarity: 0.2416599988937378
+Model: natural_sg.model, Similarity: 0.3790929615497589
+
+Word Pair: (هذه, ماما)
+Model: artificial_cbow.model, Similarity: 0.021740639582276344
+Model: natural_cbow.model, Similarity: -0.2194720357656479
+Model: artificial_sg.model, Similarity: 0.12571744620800018
+Model: natural_sg.model, Similarity: 0.03253788873553276
+
+Word Pair: (برنامج, بسهولة)
+Model: artificial_cbow.model, Similarity: 0.20743359625339508
+Model: natural_cbow.model, Similarity: -0.008682440035045147
+Model: artificial_sg.model, Similarity: 0.15053191781044006
+Model: natural_sg.model, Similarity: 0.21125316619873047
+
+Word Pair: (ينفع, طبيعية)
+Model: artificial_cbow.model, Similarity: 0.24437372386455536
+Model: natural_cbow.model, Similarity: 0.07913057506084442
+Model: artificial_sg.model, Similarity: 0.32718828320503235
+Model: natural_sg.model, Similarity: 0.2704429626464844
+
+Word Pair: (be, شاف)
+Model: artificial_cbow.model, Similarity: -0.05672519654035568
+Model: natural_cbow.model, Similarity: -0.02523435465991497
+Model: artificial_sg.model, Similarity: 0.04567398503422737
+Model: natural_sg.model, Similarity: 0.1686074584722519
+
+Word Pair: (أقول, الذي)
+Model: artificial_cbow.model, Similarity: 0.021489372476935387
+Model: natural_cbow.model, Similarity: -0.21936815977096558
+Model: artificial_sg.model, Similarity: 0.16919369995594025
+Model: natural_sg.model, Similarity: 0.022495504468679428
+
+Word Pair: (ترجع, نبقى)
+Model: artificial_cbow.model, Similarity: 0.22453856468200684
+Model: natural_cbow.model, Similarity: 0.25638172030448914
+Model: artificial_sg.model, Similarity: 0.30822303891181946
+Model: natural_sg.model, Similarity: 0.3430182635784149
+
+Word Pair: (سنة, يكمل)
+Model: artificial_cbow.model, Similarity: -0.010697970166802406
+Model: natural_cbow.model, Similarity: -0.11068955808877945
+Model: artificial_sg.model, Similarity: 0.19734951853752136
+Model: natural_sg.model, Similarity: 0.22064022719860077
+
+Word Pair: (باستخدام, years)
+Model: artificial_cbow.model, Similarity: 0.07962639629840851
+Model: natural_cbow.model, Similarity: 0.3985248804092407
+Model: artificial_sg.model, Similarity: 0.2800304591655731
+Model: natural_sg.model, Similarity: 0.32105666399002075
+
+Word Pair: (بشوف, هندسة)
+Model: artificial_cbow.model, Similarity: 0.035913873463869095
+Model: natural_cbow.model, Similarity: 0.11584426462650299
+Model: artificial_sg.model, Similarity: 0.1068330779671669
+Model: natural_sg.model, Similarity: 0.17310796678066254
+
+Word Pair: (شوفت, قصص)
+Model: artificial_cbow.model, Similarity: -0.04690452292561531
+Model: natural_cbow.model, Similarity: -0.032599035650491714
+Model: artificial_sg.model, Similarity: 0.16244620084762573
+Model: natural_sg.model, Similarity: 0.13280154764652252
+
+Word Pair: (يوم, حبيته)
+Model: artificial_cbow.model, Similarity: -0.10773695260286331
+Model: natural_cbow.model, Similarity: -0.0279887355864048
+Model: artificial_sg.model, Similarity: 0.1445910632610321
+Model: natural_sg.model, Similarity: 0.16505372524261475
+
+Word Pair: (حطيت, much)
+Model: artificial_cbow.model, Similarity: -0.16362987458705902
+Model: natural_cbow.model, Similarity: -0.034596167504787445
+Model: artificial_sg.model, Similarity: 0.12613175809383392
+Model: natural_sg.model, Similarity: 0.142710879445076
+
+Word Pair: (fulltime, الوقت)
+Model: artificial_cbow.model, Similarity: 0.08288455754518509
+Model: natural_cbow.model, Similarity: -0.05375295877456665
+Model: artificial_sg.model, Similarity: 0.2095707654953003
+Model: natural_sg.model, Similarity: 0.22149737179279327
+
+Word Pair: (calls, care)
+Model: artificial_cbow.model, Similarity: 0.1909801959991455
+Model: natural_cbow.model, Similarity: 0.1310659795999527
+Model: artificial_sg.model, Similarity: 0.48360443115234375
+Model: natural_sg.model, Similarity: 0.32597485184669495
+
+Word Pair: (يقدروا, دخلت)
+Model: artificial_cbow.model, Similarity: -0.08110615611076355
+Model: natural_cbow.model, Similarity: 0.12228943407535553
+Model: artificial_sg.model, Similarity: 0.11419312655925751
+Model: natural_sg.model, Similarity: 0.2431582510471344
+
+Word Pair: (تكتب, never)
+Model: artificial_cbow.model, Similarity: 0.12876735627651215
+Model: natural_cbow.model, Similarity: -0.001168873393908143
+Model: artificial_sg.model, Similarity: 0.17578695714473724
+Model: natural_sg.model, Similarity: 0.04434250667691231
+
+Word Pair: (computer, ينزل)
+Model: artificial_cbow.model, Similarity: 0.1513260304927826
+Model: natural_cbow.model, Similarity: 0.01731346733868122
+Model: artificial_sg.model, Similarity: 0.24403353035449982
+Model: natural_sg.model, Similarity: 0.20011289417743683
+
+Word Pair: (أكتر, اشوف)
+Model: artificial_cbow.model, Similarity: 0.23985585570335388
+Model: natural_cbow.model, Similarity: 0.027914561331272125
+Model: artificial_sg.model, Similarity: 0.2157835066318512
+Model: natural_sg.model, Similarity: 0.1820986568927765
+
+Word Pair: (هشتغل, deal)
+Model: artificial_cbow.model, Similarity: 0.12743477523326874
+Model: natural_cbow.model, Similarity: 0.014472872018814087
+Model: artificial_sg.model, Similarity: 0.15635304152965546
+Model: natural_sg.model, Similarity: 0.24211281538009644
+
+Word Pair: (القديم, كلنا)
+Model: artificial_cbow.model, Similarity: -0.02312699519097805
+Model: natural_cbow.model, Similarity: 0.06869370490312576
+Model: artificial_sg.model, Similarity: 0.08974351733922958
+Model: natural_sg.model, Similarity: 0.23993590474128723
+
+Word Pair: (أ, حياتك)
+Model: artificial_cbow.model, Similarity: 0.1338939219713211
+Model: natural_cbow.model, Similarity: -0.1397915631532669
+Model: artificial_sg.model, Similarity: 0.14090679585933685
+Model: natural_sg.model, Similarity: 0.12473428249359131
+
+Word Pair: (هاي, بره)
+Model: artificial_cbow.model, Similarity: 0.30501651763916016
+Model: natural_cbow.model, Similarity: 0.1263866126537323
+Model: artificial_sg.model, Similarity: 0.2591571509838104
+Model: natural_sg.model, Similarity: 0.17009751498699188
+
+Word Pair: (كلها, بحاول)
+Model: artificial_cbow.model, Similarity: 0.01871802657842636
+Model: natural_cbow.model, Similarity: 0.09019047021865845
+Model: artificial_sg.model, Similarity: 0.09738226979970932
+Model: natural_sg.model, Similarity: 0.19361256062984467
+
+Word Pair: (your, يتغير)
+Model: artificial_cbow.model, Similarity: 0.11635423451662064
+Model: natural_cbow.model, Similarity: 0.11115448921918869
+Model: artificial_sg.model, Similarity: 0.13921783864498138
+Model: natural_sg.model, Similarity: 0.28339287638664246
+
+Word Pair: (ماكانش, بسيطة)
+Model: artificial_cbow.model, Similarity: 0.08930769562721252
+Model: natural_cbow.model, Similarity: 0.27723610401153564
+Model: artificial_sg.model, Similarity: -0.0010152228642255068
+Model: natural_sg.model, Similarity: 0.2765520513057709
+
+Word Pair: (خاص, خلال)
+Model: artificial_cbow.model, Similarity: -0.1207238957285881
+Model: natural_cbow.model, Similarity: 0.21167398989200592
+Model: artificial_sg.model, Similarity: 0.05272413045167923
+Model: natural_sg.model, Similarity: 0.12264832854270935
+
+Word Pair: (اني, تحس)
+Model: artificial_cbow.model, Similarity: -0.2091922163963318
+Model: natural_cbow.model, Similarity: -0.00034741233685053885
+Model: artificial_sg.model, Similarity: 0.2859703004360199
+Model: natural_sg.model, Similarity: 0.23199701309204102
+
+Word Pair: (أحب, بكتير)
+Model: artificial_cbow.model, Similarity: -0.12015198171138763
+Model: natural_cbow.model, Similarity: 0.12072239816188812
+Model: artificial_sg.model, Similarity: 0.018408138304948807
+Model: natural_sg.model, Similarity: 0.29210829734802246
+
+Word Pair: (أدرس, تيجي)
+Model: artificial_cbow.model, Similarity: 0.10575369000434875
+Model: natural_cbow.model, Similarity: 0.08845902979373932
+Model: artificial_sg.model, Similarity: 0.0008084229193627834
+Model: natural_sg.model, Similarity: 0.33750519156455994
+
+Word Pair: (وكان, خلاني)
+Model: artificial_cbow.model, Similarity: 0.04911225661635399
+Model: natural_cbow.model, Similarity: 0.03720032796263695
+Model: artificial_sg.model, Similarity: 0.24167519807815552
+Model: natural_sg.model, Similarity: 0.06614581495523453
+
+Word Pair: (his, أحسن)
+Model: artificial_cbow.model, Similarity: -0.01709967851638794
+Model: natural_cbow.model, Similarity: 0.11642775684595108
+Model: artificial_sg.model, Similarity: 0.10327338427305222
+Model: natural_sg.model, Similarity: 0.10145136713981628
+
+Word Pair: (high, اتغير)
+Model: artificial_cbow.model, Similarity: 0.17601720988750458
+Model: natural_cbow.model, Similarity: 0.05372033640742302
+Model: artificial_sg.model, Similarity: 0.25277280807495117
+Model: natural_sg.model, Similarity: 0.2534109055995941
+
+Word Pair: (change, أكتر)
+Model: artificial_cbow.model, Similarity: 0.13355110585689545
+Model: natural_cbow.model, Similarity: -0.24643145501613617
+Model: artificial_sg.model, Similarity: 0.14090298116207123
+Model: natural_sg.model, Similarity: 0.03726046904921532
+
+Word Pair: (لدرجة, فينا)
+Model: artificial_cbow.model, Similarity: 0.07775112986564636
+Model: natural_cbow.model, Similarity: -0.059265248477458954
+Model: artificial_sg.model, Similarity: 0.14681389927864075
+Model: natural_sg.model, Similarity: 0.19646775722503662
+
+Word Pair: (قال, شاطر)
+Model: artificial_cbow.model, Similarity: 0.2523549497127533
+Model: natural_cbow.model, Similarity: 0.2980647385120392
+Model: artificial_sg.model, Similarity: 0.3115997016429901
+Model: natural_sg.model, Similarity: 0.2806240916252136
+
+Word Pair: (طاقة, 6)
+Model: artificial_cbow.model, Similarity: -0.020670689642429352
+Model: natural_cbow.model, Similarity: 0.4006824791431427
+Model: artificial_sg.model, Similarity: 0.0645308643579483
+Model: natural_sg.model, Similarity: 0.1496051549911499
+
+Word Pair: (طرق, أن)
+Model: artificial_cbow.model, Similarity: 0.09238394349813461
+Model: natural_cbow.model, Similarity: 0.012135112658143044
+Model: artificial_sg.model, Similarity: 0.20257724821567535
+Model: natural_sg.model, Similarity: 0.2911798059940338
+
+Word Pair: (عرفت, بتاعت)
+Model: artificial_cbow.model, Similarity: 0.06577172130346298
+Model: natural_cbow.model, Similarity: -0.07576265186071396
+Model: artificial_sg.model, Similarity: 0.2181273102760315
+Model: natural_sg.model, Similarity: 0.2462257742881775
+
+Word Pair: (غريب, search)
+Model: artificial_cbow.model, Similarity: 0.002665163017809391
+Model: natural_cbow.model, Similarity: -0.2522055208683014
+Model: artificial_sg.model, Similarity: 0.050709307193756104
+Model: natural_sg.model, Similarity: -0.04368229955434799
+
+Word Pair: (هيبقى, hard)
+Model: artificial_cbow.model, Similarity: -0.03837108612060547
+Model: natural_cbow.model, Similarity: 0.23858821392059326
+Model: artificial_sg.model, Similarity: 0.2215191274881363
+Model: natural_sg.model, Similarity: 0.2479272335767746
+
+Word Pair: (خاص, مشروع)
+Model: artificial_cbow.model, Similarity: -0.10836343467235565
+Model: natural_cbow.model, Similarity: 0.49646449089050293
+Model: artificial_sg.model, Similarity: 0.15799042582511902
+Model: natural_sg.model, Similarity: 0.30704599618911743
+
+Word Pair: (النص, parttime)
+Model: artificial_cbow.model, Similarity: -0.018802911043167114
+Model: natural_cbow.model, Similarity: 0.12310682982206345
+Model: artificial_sg.model, Similarity: 0.0743492841720581
+Model: natural_sg.model, Similarity: 0.15470020473003387
+
+Word Pair: (so, حلوة)
+Model: artificial_cbow.model, Similarity: -0.04605694115161896
+Model: natural_cbow.model, Similarity: -0.09236091375350952
+Model: artificial_sg.model, Similarity: 0.23484201729297638
+Model: natural_sg.model, Similarity: 0.13424763083457947
+
+Word Pair: (camp, طبعا)
+Model: artificial_cbow.model, Similarity: 0.0792398676276207
+Model: natural_cbow.model, Similarity: -0.07606074959039688
+Model: artificial_sg.model, Similarity: 0.1450243443250656
+Model: natural_sg.model, Similarity: 0.10912331193685532
+
+Word Pair: (مرة, إنك)
+Model: artificial_cbow.model, Similarity: 0.0863439291715622
+Model: natural_cbow.model, Similarity: 0.022211527451872826
+Model: artificial_sg.model, Similarity: 0.12493938952684402
+Model: natural_sg.model, Similarity: 0.09533458203077316
+
+Word Pair: (كبيرة, department)
+Model: artificial_cbow.model, Similarity: 0.01978379860520363
+Model: natural_cbow.model, Similarity: -0.04170496389269829
+Model: artificial_sg.model, Similarity: 0.17706042528152466
+Model: natural_sg.model, Similarity: 0.15013659000396729
+
+Word Pair: (قالولي, فريق)
+Model: artificial_cbow.model, Similarity: -0.19051669538021088
+Model: natural_cbow.model, Similarity: -0.095079205930233
+Model: artificial_sg.model, Similarity: 0.13036543130874634
+Model: natural_sg.model, Similarity: 0.12817983329296112
+
+Word Pair: (أربعة, student)
+Model: artificial_cbow.model, Similarity: 0.013189200311899185
+Model: natural_cbow.model, Similarity: -0.05252412334084511
+Model: artificial_sg.model, Similarity: 0.04905937239527702
+Model: natural_sg.model, Similarity: 0.13645532727241516
+
+Word Pair: (الشخص, هنا)
+Model: artificial_cbow.model, Similarity: 0.08613148331642151
+Model: natural_cbow.model, Similarity: -0.018913233652710915
+Model: artificial_sg.model, Similarity: 0.16585512459278107
+Model: natural_sg.model, Similarity: 0.10212118178606033
+
+Word Pair: (even, تسمى)
+Model: artificial_cbow.model, Similarity: -0.06720758229494095
+Model: natural_cbow.model, Similarity: 0.009715620428323746
+Model: artificial_sg.model, Similarity: 0.12210214138031006
+Model: natural_sg.model, Similarity: 0.22446946799755096
+
+Word Pair: (عايزه, محتاجة)
+Model: artificial_cbow.model, Similarity: 0.1507241427898407
+Model: natural_cbow.model, Similarity: 0.21662722527980804
+Model: artificial_sg.model, Similarity: 0.29424428939819336
+Model: natural_sg.model, Similarity: 0.17641635239124298
+
+Word Pair: (عالي, بالمناسبة)
+Model: artificial_cbow.model, Similarity: -0.10567419230937958
+Model: natural_cbow.model, Similarity: 0.05641999840736389
+Model: artificial_sg.model, Similarity: 0.10211941599845886
+Model: natural_sg.model, Similarity: 0.23590371012687683
+
+Word Pair: (عارفين, صوت)
+Model: artificial_cbow.model, Similarity: 0.051114168018102646
+Model: natural_cbow.model, Similarity: 0.16165761649608612
+Model: artificial_sg.model, Similarity: 0.12563222646713257
+Model: natural_sg.model, Similarity: 0.15783563256263733
+
+Word Pair: (بحس, الشيخ)
+Model: artificial_cbow.model, Similarity: -0.029308822005987167
+Model: natural_cbow.model, Similarity: -0.09008918702602386
+Model: artificial_sg.model, Similarity: 0.05708318203687668
+Model: natural_sg.model, Similarity: 0.1161348968744278
+
+Word Pair: (شخص, وفيه)
+Model: artificial_cbow.model, Similarity: -0.005380452610552311
+Model: natural_cbow.model, Similarity: -0.0397377572953701
+Model: artificial_sg.model, Similarity: 0.25456032156944275
+Model: natural_sg.model, Similarity: 0.19792872667312622
+
+Word Pair: (تتغير, plan)
+Model: artificial_cbow.model, Similarity: -0.13750657439231873
+Model: natural_cbow.model, Similarity: -0.18128322064876556
+Model: artificial_sg.model, Similarity: 0.0675870031118393
+Model: natural_sg.model, Similarity: 0.2304580807685852
+
+Word Pair: (حقيقي, عظيمة)
+Model: artificial_cbow.model, Similarity: 0.0006641591899096966
+Model: natural_cbow.model, Similarity: 0.30394452810287476
+Model: artificial_sg.model, Similarity: 0.082542784512043
+Model: natural_sg.model, Similarity: 0.16158446669578552
+
+Word Pair: (فاكرة, نجحت)
+Model: artificial_cbow.model, Similarity: 0.1951008290052414
+Model: natural_cbow.model, Similarity: 0.22879771888256073
+Model: artificial_sg.model, Similarity: 0.13062572479248047
+Model: natural_sg.model, Similarity: 0.37552782893180847
+
+Word Pair: (bad, السنة)
+Model: artificial_cbow.model, Similarity: -0.06767889112234116
+Model: natural_cbow.model, Similarity: 0.08824452757835388
+Model: artificial_sg.model, Similarity: -0.03494170680642128
+Model: natural_sg.model, Similarity: 0.06553876399993896
+
+Word Pair: (طيارة, ساكن)
+Model: artificial_cbow.model, Similarity: 0.02445095032453537
+Model: natural_cbow.model, Similarity: -0.05852390453219414
+Model: artificial_sg.model, Similarity: 0.204885795712471
+Model: natural_sg.model, Similarity: 0.12230074405670166
+
+Word Pair: (قليلة, والله)
+Model: artificial_cbow.model, Similarity: 0.0842195376753807
+Model: natural_cbow.model, Similarity: 0.2396317422389984
+Model: artificial_sg.model, Similarity: 0.12076637148857117
+Model: natural_sg.model, Similarity: 0.23267731070518494
+
+Word Pair: (إزاى, أكيد)
+Model: artificial_cbow.model, Similarity: 0.04044152423739433
+Model: natural_cbow.model, Similarity: 0.03302325680851936
+Model: artificial_sg.model, Similarity: 0.05626924708485603
+Model: natural_sg.model, Similarity: 0.16341160237789154
+
+Word Pair: (تقدري, الطب)
+Model: artificial_cbow.model, Similarity: 0.05199766904115677
+Model: natural_cbow.model, Similarity: -0.023979786783456802
+Model: artificial_sg.model, Similarity: 0.1343345046043396
+Model: natural_sg.model, Similarity: 0.12676942348480225
+
+Word Pair: (إذا, عاوزة)
+Model: artificial_cbow.model, Similarity: 0.05859021469950676
+Model: natural_cbow.model, Similarity: 0.09619621932506561
+Model: artificial_sg.model, Similarity: 0.3687039613723755
+Model: natural_sg.model, Similarity: 0.09717738628387451
+
+Word Pair: (instagram, أحمد)
+Model: artificial_cbow.model, Similarity: 0.08571130037307739
+Model: natural_cbow.model, Similarity: 0.15387625992298126
+Model: artificial_sg.model, Similarity: 0.2204725444316864
+Model: natural_sg.model, Similarity: 0.21217581629753113
+
+Word Pair: (dont, نسافر)
+Model: artificial_cbow.model, Similarity: -0.05272604897618294
+Model: natural_cbow.model, Similarity: 0.16317999362945557
+Model: artificial_sg.model, Similarity: 0.09689772874116898
+Model: natural_sg.model, Similarity: 0.1290249526500702
+
+Word Pair: (work, عليها)
+Model: artificial_cbow.model, Similarity: -0.08757487684488297
+Model: natural_cbow.model, Similarity: -0.12149831652641296
+Model: artificial_sg.model, Similarity: 0.11507240682840347
+Model: natural_sg.model, Similarity: 0.06940678507089615
+
+Word Pair: (الأيام, know)
+Model: artificial_cbow.model, Similarity: -0.0028456917498260736
+Model: natural_cbow.model, Similarity: 0.07842092961072922
+Model: artificial_sg.model, Similarity: 0.14647389948368073
+Model: natural_sg.model, Similarity: 0.19753578305244446
+
+Word Pair: (بالك, personal)
+Model: artificial_cbow.model, Similarity: 0.15273207426071167
+Model: natural_cbow.model, Similarity: 0.14274652302265167
+Model: artificial_sg.model, Similarity: 0.09416035562753677
+Model: natural_sg.model, Similarity: 0.25246885418891907
+
+Word Pair: (productive, وسط)
+Model: artificial_cbow.model, Similarity: -0.06042816489934921
+Model: natural_cbow.model, Similarity: 0.18621504306793213
+Model: artificial_sg.model, Similarity: -0.011525675654411316
+Model: natural_sg.model, Similarity: 0.26663070917129517
+
+Word Pair: (علينا, فيديو)
+Model: artificial_cbow.model, Similarity: 0.022933200001716614
+Model: natural_cbow.model, Similarity: 0.24655669927597046
+Model: artificial_sg.model, Similarity: 0.051110316067934036
+Model: natural_sg.model, Similarity: 0.1992533951997757
+
+Word Pair: (يدخل, التاريخ)
+Model: artificial_cbow.model, Similarity: -0.05217724293470383
+Model: natural_cbow.model, Similarity: 0.17621253430843353
+Model: artificial_sg.model, Similarity: 0.16675083339214325
+Model: natural_sg.model, Similarity: 0.1776910126209259
+
+Word Pair: (دماغي, اختبار)
+Model: artificial_cbow.model, Similarity: 0.035195037722587585
+Model: natural_cbow.model, Similarity: 0.0001739775761961937
+Model: artificial_sg.model, Similarity: 0.107652448117733
+Model: natural_sg.model, Similarity: 0.1618141382932663
+
+Word Pair: (الطريق, برة)
+Model: artificial_cbow.model, Similarity: -0.06581207364797592
+Model: natural_cbow.model, Similarity: 0.09331496059894562
+Model: artificial_sg.model, Similarity: 0.2615969777107239
+Model: natural_sg.model, Similarity: 0.16703329980373383
+
+Word Pair: (ذلك, الساعة)
+Model: artificial_cbow.model, Similarity: 0.0908595398068428
+Model: natural_cbow.model, Similarity: 0.11804857850074768
+Model: artificial_sg.model, Similarity: 0.15888294577598572
+Model: natural_sg.model, Similarity: 0.24017678201198578
+
+Word Pair: (أعرف, وانا)
+Model: artificial_cbow.model, Similarity: -0.14680686593055725
+Model: natural_cbow.model, Similarity: 0.09728077054023743
+Model: artificial_sg.model, Similarity: 0.008417442440986633
+Model: natural_sg.model, Similarity: 0.23017117381095886
+
+Word Pair: (ستة, definitely)
+Model: artificial_cbow.model, Similarity: -0.03172873705625534
+Model: natural_cbow.model, Similarity: 0.37179526686668396
+Model: artificial_sg.model, Similarity: 0.041374821215867996
+Model: natural_sg.model, Similarity: 0.28824713826179504
+
+Word Pair: (دراستك, عليه)
+Model: artificial_cbow.model, Similarity: -0.028513778001070023
+Model: natural_cbow.model, Similarity: -0.007336721755564213
+Model: artificial_sg.model, Similarity: 0.15068919956684113
+Model: natural_sg.model, Similarity: 0.22006145119667053
+
+Word Pair: (الكتابة, بفضل)
+Model: artificial_cbow.model, Similarity: -0.09018005430698395
+Model: natural_cbow.model, Similarity: 0.11633523553609848
+Model: artificial_sg.model, Similarity: 0.15938018262386322
+Model: natural_sg.model, Similarity: 0.16372954845428467
+
+Word Pair: (عند, الأغاني)
+Model: artificial_cbow.model, Similarity: -0.07379588484764099
+Model: natural_cbow.model, Similarity: 0.09476719051599503
+Model: artificial_sg.model, Similarity: 0.21299195289611816
+Model: natural_sg.model, Similarity: 0.22987772524356842
+
+Word Pair: (بنشوف, محتاجة)
+Model: artificial_cbow.model, Similarity: -0.10701282322406769
+Model: natural_cbow.model, Similarity: 0.037958722561597824
+Model: artificial_sg.model, Similarity: 0.10789120942354202
+Model: natural_sg.model, Similarity: 0.2398136854171753
+
+Word Pair: (مشهور, plans)
+Model: artificial_cbow.model, Similarity: -0.06700971722602844
+Model: natural_cbow.model, Similarity: -0.022985205054283142
+Model: artificial_sg.model, Similarity: 0.07464439421892166
+Model: natural_sg.model, Similarity: 0.18910256028175354
+
+Word Pair: (طبعاً, done)
+Model: artificial_cbow.model, Similarity: 0.053152550011873245
+Model: natural_cbow.model, Similarity: 0.3053201735019684
+Model: artificial_sg.model, Similarity: 0.3112550377845764
+Model: natural_sg.model, Similarity: 0.26669222116470337
+
+Word Pair: (access, الحاجة)
+Model: artificial_cbow.model, Similarity: 0.00767425075173378
+Model: natural_cbow.model, Similarity: -0.10419943928718567
+Model: artificial_sg.model, Similarity: 0.07135660201311111
+Model: natural_sg.model, Similarity: 0.03191453963518143
+
+Word Pair: (القهوة, personal)
+Model: artificial_cbow.model, Similarity: 0.09974289685487747
+Model: natural_cbow.model, Similarity: -0.12495541572570801
+Model: artificial_sg.model, Similarity: 0.12413576245307922
+Model: natural_sg.model, Similarity: 0.04051575809717178
+
+Word Pair: (two, يتكلم)
+Model: artificial_cbow.model, Similarity: -0.030973458662629128
+Model: natural_cbow.model, Similarity: -0.10316275805234909
+Model: artificial_sg.model, Similarity: 0.13759547472000122
+Model: natural_sg.model, Similarity: 0.17291291058063507
+
+Word Pair: (عالمية, ببقى)
+Model: artificial_cbow.model, Similarity: 0.07219551503658295
+Model: natural_cbow.model, Similarity: -0.05459349602460861
+Model: artificial_sg.model, Similarity: 0.2438713014125824
+Model: natural_sg.model, Similarity: 0.12769581377506256
+
+Word Pair: (job, enough)
+Model: artificial_cbow.model, Similarity: -0.12649096548557281
+Model: natural_cbow.model, Similarity: 0.010413454845547676
+Model: artificial_sg.model, Similarity: 0.1507713496685028
+Model: natural_sg.model, Similarity: 0.24676647782325745
+
+Word Pair: (المدرسة, daily)
+Model: artificial_cbow.model, Similarity: 0.07294869422912598
+Model: natural_cbow.model, Similarity: 0.0483819916844368
+Model: artificial_sg.model, Similarity: 0.14239588379859924
+Model: natural_sg.model, Similarity: 0.2581798732280731
+
+Word Pair: (sea, قاعدين)
+Model: artificial_cbow.model, Similarity: 0.0819568932056427
+Model: natural_cbow.model, Similarity: 0.22527292370796204
+Model: artificial_sg.model, Similarity: 0.1655937284231186
+Model: natural_sg.model, Similarity: 0.2903634011745453
+
+Word Pair: (مناسبة, قصته)
+Model: artificial_cbow.model, Similarity: 0.3849295675754547
+Model: natural_cbow.model, Similarity: -0.0710107833147049
+Model: artificial_sg.model, Similarity: 0.15498654544353485
+Model: natural_sg.model, Similarity: 0.07424319535493851
+
+Word Pair: (experiences, أعيش)
+Model: artificial_cbow.model, Similarity: 0.1286267787218094
+Model: natural_cbow.model, Similarity: 0.08257094025611877
+Model: artificial_sg.model, Similarity: 0.30721452832221985
+Model: natural_sg.model, Similarity: 0.2753819525241852
+
+Word Pair: (تقرير, بعد)
+Model: artificial_cbow.model, Similarity: -0.06535935401916504
+Model: natural_cbow.model, Similarity: -0.13577966392040253
+Model: artificial_sg.model, Similarity: 0.0986718013882637
+Model: natural_sg.model, Similarity: 0.18594464659690857
+
+Word Pair: (موقف, test)
+Model: artificial_cbow.model, Similarity: -0.04100201278924942
+Model: natural_cbow.model, Similarity: -0.021873243153095245
+Model: artificial_sg.model, Similarity: 0.1591985523700714
+Model: natural_sg.model, Similarity: 0.18953241407871246
+
+Word Pair: (ساكن, شمال)
+Model: artificial_cbow.model, Similarity: 0.31570667028427124
+Model: natural_cbow.model, Similarity: -0.16098198294639587
+Model: artificial_sg.model, Similarity: 0.5360038876533508
+Model: natural_sg.model, Similarity: 0.09616538882255554
+
+Word Pair: (تماما, قالولي)
+Model: artificial_cbow.model, Similarity: -0.024330027401447296
+Model: natural_cbow.model, Similarity: 0.17347484827041626
+Model: artificial_sg.model, Similarity: 0.09548275172710419
+Model: natural_sg.model, Similarity: 0.1826459765434265
+
+Word Pair: (وقتها, days)
+Model: artificial_cbow.model, Similarity: 0.048235658556222916
+Model: natural_cbow.model, Similarity: 0.14771069586277008
+Model: artificial_sg.model, Similarity: 0.18787537515163422
+Model: natural_sg.model, Similarity: 0.17353834211826324
+
+Word Pair: (لإنه, rain)
+Model: artificial_cbow.model, Similarity: -0.17546938359737396
+Model: natural_cbow.model, Similarity: 0.09347789734601974
+Model: artificial_sg.model, Similarity: 0.12684863805770874
+Model: natural_sg.model, Similarity: 0.25519153475761414
+
+Word Pair: (المدينة, wow)
+Model: artificial_cbow.model, Similarity: 0.05404030904173851
+Model: natural_cbow.model, Similarity: 0.11221623420715332
+Model: artificial_sg.model, Similarity: 0.22085829079151154
+Model: natural_sg.model, Similarity: 0.24645838141441345
+
+Word Pair: (بيبدأ, واحنا)
+Model: artificial_cbow.model, Similarity: 0.06221696361899376
+Model: natural_cbow.model, Similarity: 0.19738149642944336
+Model: artificial_sg.model, Similarity: 0.10367877781391144
+Model: natural_sg.model, Similarity: 0.17984025180339813
+
+Word Pair: (بالنسبة, وبالتالي)
+Model: artificial_cbow.model, Similarity: 0.07127338647842407
+Model: natural_cbow.model, Similarity: 0.07500997185707092
+Model: artificial_sg.model, Similarity: 0.18341945111751556
+Model: natural_sg.model, Similarity: 0.1782863885164261
+
+Word Pair: (المفروض, دخلت)
+Model: artificial_cbow.model, Similarity: -0.010388730093836784
+Model: natural_cbow.model, Similarity: 0.13436782360076904
+Model: artificial_sg.model, Similarity: 0.06574729084968567
+Model: natural_sg.model, Similarity: 0.15081411600112915
+
+Word Pair: (بدأوا, التواصل)
+Model: artificial_cbow.model, Similarity: 0.02183067984879017
+Model: natural_cbow.model, Similarity: 0.528243362903595
+Model: artificial_sg.model, Similarity: 0.17968761920928955
+Model: natural_sg.model, Similarity: 0.4922928810119629
+
+Word Pair: (last, space)
+Model: artificial_cbow.model, Similarity: 0.1173991784453392
+Model: natural_cbow.model, Similarity: 0.2713542878627777
+Model: artificial_sg.model, Similarity: 0.1343412697315216
+Model: natural_sg.model, Similarity: 0.3041066527366638
+
+Word Pair: (what, تاريخ)
+Model: artificial_cbow.model, Similarity: 0.1581348031759262
+Model: natural_cbow.model, Similarity: 0.14380943775177002
+Model: artificial_sg.model, Similarity: 0.14161427319049835
+Model: natural_sg.model, Similarity: 0.12089692056179047
+
+Word Pair: (interesting, خطة)
+Model: artificial_cbow.model, Similarity: -0.05600488930940628
+Model: natural_cbow.model, Similarity: 0.15793479979038239
+Model: artificial_sg.model, Similarity: 0.19276836514472961
+Model: natural_sg.model, Similarity: 0.2610209882259369
+
+Word Pair: (طبعا, دماغي)
+Model: artificial_cbow.model, Similarity: -0.07535526156425476
+Model: natural_cbow.model, Similarity: 0.2742033004760742
+Model: artificial_sg.model, Similarity: 0.04511618986725807
+Model: natural_sg.model, Similarity: 0.2908438742160797
+
+Word Pair: (كذا, business)
+Model: artificial_cbow.model, Similarity: -0.017000608146190643
+Model: natural_cbow.model, Similarity: -0.053351882845163345
+Model: artificial_sg.model, Similarity: 0.06326429545879364
+Model: natural_sg.model, Similarity: 0.07620124518871307
+
+Word Pair: (الكلية, okay)
+Model: artificial_cbow.model, Similarity: 0.030192069709300995
+Model: natural_cbow.model, Similarity: 0.13649573922157288
+Model: artificial_sg.model, Similarity: 0.12810418009757996
+Model: natural_sg.model, Similarity: 0.19712074100971222
+
+Word Pair: (درجة, حياتك)
+Model: artificial_cbow.model, Similarity: 0.26122424006462097
+Model: natural_cbow.model, Similarity: 0.055675607174634933
+Model: artificial_sg.model, Similarity: 0.30975139141082764
+Model: natural_sg.model, Similarity: 0.18420612812042236
+
+Word Pair: (وبالتالي, شكلها)
+Model: artificial_cbow.model, Similarity: 0.05825590714812279
+Model: natural_cbow.model, Similarity: -0.12410889565944672
+Model: artificial_sg.model, Similarity: 0.09644445776939392
+Model: natural_sg.model, Similarity: 0.0813804343342781
+
+Word Pair: (نفسك, بالنسبالي)
+Model: artificial_cbow.model, Similarity: -0.011697188951075077
+Model: natural_cbow.model, Similarity: -0.07712794095277786
+Model: artificial_sg.model, Similarity: 0.09651336818933487
+Model: natural_sg.model, Similarity: 0.14106644690036774
+
+Word Pair: (أعملها, very)
+Model: artificial_cbow.model, Similarity: 0.025436431169509888
+Model: natural_cbow.model, Similarity: 0.101639024913311
+Model: artificial_sg.model, Similarity: 0.049625709652900696
+Model: natural_sg.model, Similarity: 0.2616303563117981
+
+Word Pair: (عمرك, محتاجة)
+Model: artificial_cbow.model, Similarity: 0.09309840947389603
+Model: natural_cbow.model, Similarity: 0.03900376334786415
+Model: artificial_sg.model, Similarity: 0.13078676164150238
+Model: natural_sg.model, Similarity: 0.15744727849960327
+
+Word Pair: (activity, مهما)
+Model: artificial_cbow.model, Similarity: -0.12536613643169403
+Model: natural_cbow.model, Similarity: 0.05742068588733673
+Model: artificial_sg.model, Similarity: 0.11897072196006775
+Model: natural_sg.model, Similarity: 0.2549523115158081
+
+Word Pair: (الطبيعة, معقدة)
+Model: artificial_cbow.model, Similarity: 0.18298251926898956
+Model: natural_cbow.model, Similarity: 0.5256386995315552
+Model: artificial_sg.model, Similarity: 0.31747496128082275
+Model: natural_sg.model, Similarity: 0.4442947208881378
+
+Word Pair: (papers, child)
+Model: artificial_cbow.model, Similarity: -0.10358821600675583
+Model: natural_cbow.model, Similarity: 0.1066831722855568
+Model: artificial_sg.model, Similarity: 0.013973813503980637
+Model: natural_sg.model, Similarity: 0.4058041274547577
+
+Word Pair: (لنا, reason)
+Model: artificial_cbow.model, Similarity: 0.07372074574232101
+Model: natural_cbow.model, Similarity: -0.0479377843439579
+Model: artificial_sg.model, Similarity: 0.16222204267978668
+Model: natural_sg.model, Similarity: 0.10203946381807327
+
+Word Pair: (هقدر, فلما)
+Model: artificial_cbow.model, Similarity: -0.2790534198284149
+Model: natural_cbow.model, Similarity: 0.0035323710180819035
+Model: artificial_sg.model, Similarity: 0.036009531468153
+Model: natural_sg.model, Similarity: 0.33806028962135315
+
+Word Pair: (غالبًا, by)
+Model: artificial_cbow.model, Similarity: -0.24374692142009735
+Model: natural_cbow.model, Similarity: 0.17941491305828094
+Model: artificial_sg.model, Similarity: -0.01958484575152397
+Model: natural_sg.model, Similarity: 0.2802985608577728
+
+Word Pair: (الإنجليزي, مهم)
+Model: artificial_cbow.model, Similarity: 0.08512521535158157
+Model: natural_cbow.model, Similarity: 0.13935548067092896
+Model: artificial_sg.model, Similarity: 0.21641287207603455
+Model: natural_sg.model, Similarity: 0.27781370282173157
+
+Word Pair: (بدأوا, تكن)
+Model: artificial_cbow.model, Similarity: 0.0215431060642004
+Model: natural_cbow.model, Similarity: 0.5139604210853577
+Model: artificial_sg.model, Similarity: 0.19262097775936127
+Model: natural_sg.model, Similarity: 0.42139455676078796
+
+Word Pair: (اجازة, قصته)
+Model: artificial_cbow.model, Similarity: -0.02532212808728218
+Model: natural_cbow.model, Similarity: 0.0708048939704895
+Model: artificial_sg.model, Similarity: 0.20168155431747437
+Model: natural_sg.model, Similarity: 0.13746285438537598
+
+Word Pair: (french, power)
+Model: artificial_cbow.model, Similarity: 0.11089485138654709
+Model: natural_cbow.model, Similarity: -0.060043592005968094
+Model: artificial_sg.model, Similarity: 0.18337394297122955
+Model: natural_sg.model, Similarity: 0.11948637664318085
+
+Word Pair: (id, دايما)
+Model: artificial_cbow.model, Similarity: 0.16590213775634766
+Model: natural_cbow.model, Similarity: 0.011786138638854027
+Model: artificial_sg.model, Similarity: 0.029698900878429413
+Model: natural_sg.model, Similarity: 0.2330912947654724
+
+Word Pair: (الإمارات, عجبني)
+Model: artificial_cbow.model, Similarity: 0.0031456616707146168
+Model: natural_cbow.model, Similarity: 0.24648912250995636
+Model: artificial_sg.model, Similarity: 0.05639662966132164
+Model: natural_sg.model, Similarity: 0.39316505193710327
+
+Word Pair: (عارفة, مهم)
+Model: artificial_cbow.model, Similarity: 0.03423137962818146
+Model: natural_cbow.model, Similarity: 0.1793869435787201
+Model: artificial_sg.model, Similarity: 0.0985896959900856
+Model: natural_sg.model, Similarity: 0.19472776353359222
+
+Word Pair: (طبعاً, ال)
+Model: artificial_cbow.model, Similarity: 0.06130170077085495
+Model: natural_cbow.model, Similarity: -0.4472538232803345
+Model: artificial_sg.model, Similarity: 0.12435445934534073
+Model: natural_sg.model, Similarity: -0.02479257620871067
+
+Word Pair: (بقت, أحب)
+Model: artificial_cbow.model, Similarity: 0.04141382873058319
+Model: natural_cbow.model, Similarity: -0.20648851990699768
+Model: artificial_sg.model, Similarity: 0.18247708678245544
+Model: natural_sg.model, Similarity: 0.09305617958307266
+
+Word Pair: (فى, لل)
+Model: artificial_cbow.model, Similarity: 0.1660355031490326
+Model: natural_cbow.model, Similarity: 0.12771932780742645
+Model: artificial_sg.model, Similarity: 0.13741743564605713
+Model: natural_sg.model, Similarity: 0.21468937397003174
+
+Word Pair: (شكله, تحفة)
+Model: artificial_cbow.model, Similarity: 0.33455750346183777
+Model: natural_cbow.model, Similarity: 0.08883561939001083
+Model: artificial_sg.model, Similarity: 0.4752475321292877
+Model: natural_sg.model, Similarity: 0.23842638731002808
+
+Word Pair: (report, weekend)
+Model: artificial_cbow.model, Similarity: 0.16458432376384735
+Model: natural_cbow.model, Similarity: 0.28743863105773926
+Model: artificial_sg.model, Similarity: 0.07641301304101944
+Model: natural_sg.model, Similarity: 0.26961731910705566
+
+Word Pair: (جامدة, هناك)
+Model: artificial_cbow.model, Similarity: -0.0010911994613707066
+Model: natural_cbow.model, Similarity: 0.03953535854816437
+Model: artificial_sg.model, Similarity: 0.1449778825044632
+Model: natural_sg.model, Similarity: 0.17126189172267914
+
+Word Pair: (me, قاعدين)
+Model: artificial_cbow.model, Similarity: -0.015012717805802822
+Model: natural_cbow.model, Similarity: 0.004246820695698261
+Model: artificial_sg.model, Similarity: 0.11241820454597473
+Model: natural_sg.model, Similarity: 0.16671763360500336
+
+Word Pair: (نكمل, كما)
+Model: artificial_cbow.model, Similarity: 0.06804344058036804
+Model: natural_cbow.model, Similarity: 0.16964173316955566
+Model: artificial_sg.model, Similarity: 0.10505397617816925
+Model: natural_sg.model, Similarity: 0.29091209173202515
+
+Word Pair: (السنة, أرجع)
+Model: artificial_cbow.model, Similarity: -0.025106094777584076
+Model: natural_cbow.model, Similarity: 0.11173264682292938
+Model: artificial_sg.model, Similarity: 0.10327540338039398
+Model: natural_sg.model, Similarity: 0.19836002588272095
+
+Word Pair: (بتشتغل, أكلم)
+Model: artificial_cbow.model, Similarity: -0.022573990747332573
+Model: natural_cbow.model, Similarity: -0.05230062082409859
+Model: artificial_sg.model, Similarity: 0.10903087258338928
+Model: natural_sg.model, Similarity: 0.168979212641716
+
+Word Pair: (تأثير, يعدي)
+Model: artificial_cbow.model, Similarity: -0.040314167737960815
+Model: natural_cbow.model, Similarity: -0.024310624226927757
+Model: artificial_sg.model, Similarity: 0.2008342295885086
+Model: natural_sg.model, Similarity: 0.22408881783485413
+
+Word Pair: (think, نجحت)
+Model: artificial_cbow.model, Similarity: 0.028967004269361496
+Model: natural_cbow.model, Similarity: 0.19998577237129211
+Model: artificial_sg.model, Similarity: 0.12794779241085052
+Model: natural_sg.model, Similarity: 0.21735212206840515
+
+Word Pair: (white, grades)
+Model: artificial_cbow.model, Similarity: 0.1901778280735016
+Model: natural_cbow.model, Similarity: -0.05438181012868881
+Model: artificial_sg.model, Similarity: 0.3020070791244507
+Model: natural_sg.model, Similarity: 0.19714337587356567
+
+Word Pair: (لمدة, بيقول)
+Model: artificial_cbow.model, Similarity: 0.10028742253780365
+Model: natural_cbow.model, Similarity: 0.005204291548579931
+Model: artificial_sg.model, Similarity: 0.07365639507770538
+Model: natural_sg.model, Similarity: 0.018843401223421097
+
+Word Pair: (قبل, not)
+Model: artificial_cbow.model, Similarity: -0.21738363802433014
+Model: natural_cbow.model, Similarity: -0.12509222328662872
+Model: artificial_sg.model, Similarity: 0.002396499505266547
+Model: natural_sg.model, Similarity: 0.07356129586696625
+
+Word Pair: (teacher, طلع)
+Model: artificial_cbow.model, Similarity: 0.1097487360239029
+Model: natural_cbow.model, Similarity: -0.09233797341585159
+Model: artificial_sg.model, Similarity: 0.15037888288497925
+Model: natural_sg.model, Similarity: 0.19052626192569733
+
+Word Pair: (كما, أكتر)
+Model: artificial_cbow.model, Similarity: 0.2306125909090042
+Model: natural_cbow.model, Similarity: -0.23638586699962616
+Model: artificial_sg.model, Similarity: 0.057292670011520386
+Model: natural_sg.model, Similarity: 0.08854081481695175
+
+Word Pair: (هرجع, قريب)
+Model: artificial_cbow.model, Similarity: -0.040294282138347626
+Model: natural_cbow.model, Similarity: 0.16028009355068207
+Model: artificial_sg.model, Similarity: 0.2978993058204651
+Model: natural_sg.model, Similarity: 0.24404627084732056
+
+Word Pair: (عملته, بحبه)
+Model: artificial_cbow.model, Similarity: 0.7084928750991821
+Model: natural_cbow.model, Similarity: -0.16252756118774414
+Model: artificial_sg.model, Similarity: 0.43425989151000977
+Model: natural_sg.model, Similarity: 0.050247445702552795
+
+Word Pair: (credit, نستخدم)
+Model: artificial_cbow.model, Similarity: -0.10724460333585739
+Model: natural_cbow.model, Similarity: 0.505681574344635
+Model: artificial_sg.model, Similarity: 0.1181819811463356
+Model: natural_sg.model, Similarity: 0.3765670657157898
+
+Word Pair: (نشوف, always)
+Model: artificial_cbow.model, Similarity: -0.09630504250526428
+Model: natural_cbow.model, Similarity: 0.18182171881198883
+Model: artificial_sg.model, Similarity: 0.0632723793387413
+Model: natural_sg.model, Similarity: 0.13532419502735138
+
+Word Pair: (وصلت, view)
+Model: artificial_cbow.model, Similarity: -0.023648442700505257
+Model: natural_cbow.model, Similarity: 0.015462908893823624
+Model: artificial_sg.model, Similarity: 0.04431265592575073
+Model: natural_sg.model, Similarity: 0.1405181735754013
+
+Word Pair: (even, free)
+Model: artificial_cbow.model, Similarity: 0.12223854660987854
+Model: natural_cbow.model, Similarity: -0.0751461386680603
+Model: artificial_sg.model, Similarity: 0.22962668538093567
+Model: natural_sg.model, Similarity: 0.11848308891057968
+
+Word Pair: (يبقى, العربية)
+Model: artificial_cbow.model, Similarity: 0.019375519827008247
+Model: natural_cbow.model, Similarity: -0.06850474327802658
+Model: artificial_sg.model, Similarity: -0.0250620748847723
+Model: natural_sg.model, Similarity: 0.0317157544195652
+
+Word Pair: (نمت, و)
+Model: artificial_cbow.model, Similarity: -0.14671845734119415
+Model: natural_cbow.model, Similarity: -0.08299080282449722
+Model: artificial_sg.model, Similarity: 0.04257877916097641
+Model: natural_sg.model, Similarity: 0.3801485002040863
+
+Word Pair: (حبيت, لغة)
+Model: artificial_cbow.model, Similarity: -0.06539080291986465
+Model: natural_cbow.model, Similarity: 0.048678308725357056
+Model: artificial_sg.model, Similarity: 0.07136859744787216
+Model: natural_sg.model, Similarity: 0.20283228158950806
+
+Word Pair: (وهي, five)
+Model: artificial_cbow.model, Similarity: -0.1851663887500763
+Model: natural_cbow.model, Similarity: 0.1785403937101364
+Model: artificial_sg.model, Similarity: 0.04916730523109436
+Model: natural_sg.model, Similarity: -0.02467384934425354
+
+Word Pair: (يتكلم, النفسية)
+Model: artificial_cbow.model, Similarity: 0.10335001349449158
+Model: natural_cbow.model, Similarity: 0.1491026133298874
+Model: artificial_sg.model, Similarity: 0.35296523571014404
+Model: natural_sg.model, Similarity: 0.26751893758773804
+
+Word Pair: (جامد, reason)
+Model: artificial_cbow.model, Similarity: -0.06275215744972229
+Model: natural_cbow.model, Similarity: -0.04082363098859787
+Model: artificial_sg.model, Similarity: 0.14665532112121582
+Model: natural_sg.model, Similarity: 0.19894105195999146
+
+Word Pair: (علينا, would)
+Model: artificial_cbow.model, Similarity: -0.0668751671910286
+Model: natural_cbow.model, Similarity: -0.002986343577504158
+Model: artificial_sg.model, Similarity: -0.027700897306203842
+Model: natural_sg.model, Similarity: 0.24175068736076355
+
+Word Pair: (المكتب, بتاع)
+Model: artificial_cbow.model, Similarity: -0.03459959104657173
+Model: natural_cbow.model, Similarity: 0.13406462967395782
+Model: artificial_sg.model, Similarity: 0.1460336595773697
+Model: natural_sg.model, Similarity: 0.2352350354194641
+
+Word Pair: (فعلا, هسافر)
+Model: artificial_cbow.model, Similarity: 0.10311857610940933
+Model: natural_cbow.model, Similarity: 0.2572178244590759
+Model: artificial_sg.model, Similarity: 0.14907237887382507
+Model: natural_sg.model, Similarity: 0.17663617432117462
+
+Word Pair: (enjoy, business)
+Model: artificial_cbow.model, Similarity: -0.11489524692296982
+Model: natural_cbow.model, Similarity: 0.05605089291930199
+Model: artificial_sg.model, Similarity: 0.03592752292752266
+Model: natural_sg.model, Similarity: 0.3422243297100067
+
+Word Pair: (creativity, believe)
+Model: artificial_cbow.model, Similarity: -0.013744678348302841
+Model: natural_cbow.model, Similarity: -0.021240239962935448
+Model: artificial_sg.model, Similarity: 0.13592565059661865
+Model: natural_sg.model, Similarity: 0.2848421335220337
+
+Word Pair: (صغير, بيحاول)
+Model: artificial_cbow.model, Similarity: 0.2409767359495163
+Model: natural_cbow.model, Similarity: -0.16657857596874237
+Model: artificial_sg.model, Similarity: 0.28316402435302734
+Model: natural_sg.model, Similarity: 0.2078125774860382
+
+Word Pair: (حسب, فممكن)
+Model: artificial_cbow.model, Similarity: 0.08308517187833786
+Model: natural_cbow.model, Similarity: -0.045391179621219635
+Model: artificial_sg.model, Similarity: 0.14139631390571594
+Model: natural_sg.model, Similarity: 0.06334597617387772
+
+Word Pair: (برضو, online)
+Model: artificial_cbow.model, Similarity: 0.15501049160957336
+Model: natural_cbow.model, Similarity: 0.1807204633951187
+Model: artificial_sg.model, Similarity: 0.20754647254943848
+Model: natural_sg.model, Similarity: 0.20507103204727173
+
+Word Pair: (فوق, أجيب)
+Model: artificial_cbow.model, Similarity: 0.04633856937289238
+Model: natural_cbow.model, Similarity: 0.22985756397247314
+Model: artificial_sg.model, Similarity: 0.07785217463970184
+Model: natural_sg.model, Similarity: 0.3231481611728668
+
+Word Pair: (فكرة, الفلوس)
+Model: artificial_cbow.model, Similarity: 0.016179636120796204
+Model: natural_cbow.model, Similarity: -0.03367670997977257
+Model: artificial_sg.model, Similarity: 0.1309254914522171
+Model: natural_sg.model, Similarity: 0.06785356998443604
+
+Word Pair: (عشر, تاريخ)
+Model: artificial_cbow.model, Similarity: 0.040246132761240005
+Model: natural_cbow.model, Similarity: -0.057322558015584946
+Model: artificial_sg.model, Similarity: 0.21845827996730804
+Model: natural_sg.model, Similarity: -0.02568836696445942
+
+Word Pair: (أعملها, احب)
+Model: artificial_cbow.model, Similarity: -0.02745567448437214
+Model: natural_cbow.model, Similarity: 0.44704174995422363
+Model: artificial_sg.model, Similarity: 0.2515021860599518
+Model: natural_sg.model, Similarity: 0.38680601119995117
 
